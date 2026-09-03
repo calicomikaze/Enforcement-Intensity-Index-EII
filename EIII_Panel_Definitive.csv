@@ -1,0 +1,943 @@
+country,iso3,year,under_sanctions,scope,stated_justification,legal_authority,layer1_ofac_events,layer2_multilateral,layer3_agency_actions,layer4_kinetic,eiii_score,polity,friction,degradation,resource_density,fiscal_pressure,gdp_pc_log,trend,vdem_electoral,vdem_elections,eiii_equal,eiii_rawcount,eiii_financial
+Afghanistan,AFG,1999,1,targeted,terrorism,IEEPA,4,0,0,0,4,-7.0,3.587,0,,2.386,,54,0.073,0.0,1,4,4
+Afghanistan,AFG,2000,1,targeted,terrorism,IEEPA,0,1,0,0,1,-7.0,3.4909,0,,2.175,5.164,55,0.073,0.0,1,1,1
+Afghanistan,AFG,2001,1,targeted,terrorism,IEEPA,0,113,0,154,267,-7.0,3.1296,0,,1.948,4.932,56,0.083,0.0,2,70,113
+Afghanistan,AFG,2002,1,targeted,terrorism,IEEPA,0,3,0,69,72,-7.0,3.4355,0,1.28,1.564,5.187,57,0.218,0.0,2,23,3
+Afghanistan,AFG,2003,1,targeted,terrorism,IEEPA,0,0,0,11,11,-7.0,3.2829,0,0.73,1.336,5.293,58,0.224,0.0,1,11,0
+Afghanistan,AFG,2004,1,targeted,terrorism,IEEPA,0,3,0,10,13,-7.0,3.5228,0,0.46,1.312,5.402,59,0.235,0.051,2,13,3
+Afghanistan,AFG,2005,1,targeted,terrorism,IEEPA,0,0,0,9,9,-7.0,3.3673,0,0.39,1.411,5.538,60,0.311,0.209,1,9,0
+Afghanistan,AFG,2006,1,targeted,terrorism,IEEPA,0,1027,0,11,1038,-7.0,3.4996,0,0.5,1.64,5.614,61,0.364,0.211,2,61,1027
+Afghanistan,AFG,2007,1,targeted,terrorism,IEEPA,0,51,0,21,72,-7.0,3.1352,0,0.45,1.638,5.93,62,0.364,0.211,2,70,51
+Afghanistan,AFG,2008,1,targeted,terrorism,IEEPA,0,52,0,22,74,-7.0,3.1301,0,0.6,1.711,5.945,63,0.368,0.211,2,70,52
+Afghanistan,AFG,2009,1,targeted,terrorism,IEEPA,0,54,0,8,62,-7.0,3.1223,0,0.42,1.291,6.114,64,0.361,0.189,2,58,54
+Afghanistan,AFG,2010,1,targeted,terrorism,IEEPA,0,19,0,7,26,-7.0,3.0221,0,0.63,1.304,6.329,65,0.347,0.152,2,26,19
+Afghanistan,AFG,2011,1,targeted,terrorism,IEEPA,0,194,0,13,207,-7.0,3.0122,0,0.84,1.474,6.408,66,0.346,0.155,2,63,194
+Afghanistan,AFG,2012,1,targeted,terrorism,IEEPA,0,80,0,13,93,-7.0,3.0095,0,0.68,1.356,6.479,67,0.35,0.153,2,63,80
+Afghanistan,AFG,2013,1,targeted,terrorism,IEEPA,0,28,0,12,40,-7.0,3.0611,0,0.6,1.309,6.457,68,0.345,0.16,2,40,28
+Afghanistan,AFG,2014,1,targeted,terrorism,IEEPA,0,5,0,10,15,-1.0,3.2212,0,0.54,1.3,6.438,69,0.35,0.181,2,15,5
+Afghanistan,AFG,2015,1,targeted,terrorism,IEEPA,0,4,0,14,18,-1.0,3.2561,0,0.47,1.22,6.338,70,0.348,0.188,2,18,4
+Afghanistan,AFG,2016,1,targeted,terrorism,IEEPA,0,1209,0,23,1232,-1.0,3.1878,0,0.62,1.276,6.258,71,0.34,0.172,2,70,1209
+Afghanistan,AFG,2017,1,targeted,terrorism,IEEPA,0,64,0,24,88,-1.0,3.2404,0,0.7,1.339,6.264,72,0.334,0.155,2,70,64
+Afghanistan,AFG,2018,1,targeted,terrorism,IEEPA,0,64,0,17,81,-1.0,3.3177,0,0.86,1.573,6.197,73,0.33,0.151,2,67,64
+Afghanistan,AFG,2019,1,targeted,terrorism,IEEPA,0,48,0,18,66,-1.0,3.4628,0,0.68,1.742,6.208,74,0.329,0.134,2,66,48
+Afghanistan,AFG,2020,1,targeted,terrorism,IEEPA,0,349,0,11,360,-1.0,3.0695,0,0.31,1.616,6.236,75,0.336,0.174,2,61,349
+Afghanistan,AFG,2021,1,targeted,terrorism,IEEPA,0,1,0,8,9,-1.0,3.0779,0,0.43,1.485,5.876,76,0.144,0.067,2,9,1
+Afghanistan,AFG,2022,1,targeted,terrorism,IEEPA,2,0,0,1,3,-1.0,3.1215,0,,1.827,5.878,77,0.076,0.0,2,3,2
+Afghanistan,AFG,2023,1,targeted,terrorism,IEEPA,0,2,0,0,2,-1.0,2.4152,0,,2.367,6.025,78,0.073,0.0,1,2,2
+Afghanistan,AFG,2024,1,targeted,terrorism,IEEPA,0,0,0,0,0,-1.0,2.7469,0,,3.003,,79,0.08,0.0,0,0,0
+Afghanistan,AFG,2025,1,targeted,terrorism,IEEPA,0,0,0,0,0,-1.0,,0,,3.153,,80,0.069,0.0,0,0,0
+Angola,AGO,1993,1,targeted,democracy,IEEPA,4,0,0,0,4,-1.0,3.7239,1,36.66,2.897,6.109,48,0.155,0.0,1,4,4
+Angola,AGO,1994,1,targeted,democracy,IEEPA,0,0,0,0,0,-2.0,3.5667,1,43.64,2.785,5.814,49,0.155,0.0,0,0,0
+Angola,AGO,1995,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,3.5654,1,44.21,3.039,6.002,50,0.155,0.0,0,0,0
+Angola,AGO,1996,1,targeted,democracy,IEEPA,0,0,0,0,0,-4.0,3.7511,1,41.36,2.986,6.275,51,0.155,0.0,0,0,0
+Angola,AGO,1997,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.6722,1,39.45,2.844,6.257,52,0.155,0.0,0,0,0
+Angola,AGO,1998,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.6032,1,24.27,2.661,6.062,53,0.155,0.0,0,0,0
+Angola,AGO,1999,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.4879,1,40.8,2.386,5.973,54,0.155,0.0,0,0,0
+Angola,AGO,2000,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.3234,1,59.14,2.175,6.335,55,0.155,0.0,0,0,0
+Angola,AGO,2001,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,2.8758,1,44.22,1.948,6.28,56,0.155,0.0,0,0,0
+Angola,AGO,2002,1,targeted,democracy,IEEPA,0,0,0,0,0,-2.0,2.8231,1,32.88,1.564,6.907,57,0.159,0.0,0,0,0
+Angola,AGO,2003,1,targeted,democracy,IEEPA,0,0,0,0,0,-2.0,3.3733,1,28.41,1.336,7.033,58,0.166,0.0,0,0,0
+Belarus,BLR,2006,1,targeted,democracy,IEEPA,4,0,0,0,4,-7.0,2.9501,0,1.68,1.64,8.255,61,0.225,0.172,1,4,4
+Belarus,BLR,2007,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.9436,0,1.56,1.638,8.463,62,0.222,0.167,0,0,0
+Belarus,BLR,2008,1,targeted,democracy,IEEPA,0,2,0,0,2,-7.0,3.0619,0,1.6,1.711,8.76,63,0.224,0.174,1,2,2
+Belarus,BLR,2009,1,targeted,democracy,IEEPA,0,376,0,0,376,-7.0,3.0511,0,1.14,1.291,8.585,64,0.227,0.193,1,50,376
+Belarus,BLR,2010,1,targeted,democracy,IEEPA,0,8,0,0,8,-7.0,2.8275,0,1.21,1.304,8.705,65,0.226,0.191,1,8,8
+Belarus,BLR,2011,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.7591,0,1.65,1.474,8.784,66,0.216,0.148,0,0,0
+Belarus,BLR,2012,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.8012,0,1.73,1.356,8.847,67,0.221,0.169,0,0,0
+Belarus,BLR,2013,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.7922,0,1.44,1.309,8.987,68,0.242,0.224,0,0,0
+Belarus,BLR,2014,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.88,0,1.32,1.3,9.029,69,0.243,0.224,0,0,0
+Belarus,BLR,2015,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.8247,0,1.17,1.22,8.694,70,0.247,0.226,0,0,0
+Belarus,BLR,2016,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.6805,0,1.24,1.276,8.525,71,0.256,0.23,0,0,0
+Belarus,BLR,2017,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.7619,0,1.56,1.339,8.663,72,0.254,0.228,0,0,0
+Belarus,BLR,2018,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.8727,0,1.98,1.573,8.758,73,0.252,0.228,0,0,0
+Belarus,BLR,2019,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,3.1377,0,1.67,1.742,8.83,74,0.259,0.228,0,0,0
+Belarus,BLR,2020,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.8696,0,1.52,1.616,8.786,75,0.208,0.174,0,0,0
+Belarus,BLR,2021,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.8922,0,1.86,1.485,8.921,76,0.172,0.131,0,0,0
+Belarus,BLR,2022,1,targeted,democracy,IEEPA,3,0,0,0,3,-7.0,3.0274,0,,1.827,8.987,77,0.171,0.131,1,3,3
+Belarus,BLR,2023,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,3.2398,0,,2.367,8.974,78,0.157,0.131,0,0,0
+Belarus,BLR,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,2.8908,0,,3.003,9.026,79,0.16,0.172,0,0,0
+Belarus,BLR,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,-7.0,3.0113,0,,3.153,,80,0.163,0.194,0,0,0
+Bosnia,BIH,1992,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,,1,,3.057,7.019,47,0.249,0.0,0,0,0
+Bosnia,BIH,1993,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.96,1,,2.897,6.835,48,0.249,0.0,0,0,0
+Bosnia,BIH,1994,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.9143,1,0.25,2.785,5.82,49,0.187,0.0,0,0,0
+Bosnia,BIH,1995,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.9496,1,1.37,3.039,6.219,50,0.187,0.0,0,0,0
+Bosnia,BIH,1996,1,targeted,human_rights,IEEPA,0,3,0,0,3,0.0,2.4033,0,0.09,2.986,6.578,51,0.268,0.19,1,3,3
+Bosnia,BIH,1997,1,targeted,human_rights,IEEPA,0,6,0,0,6,0.0,2.4669,0,1.91,2.844,6.818,52,0.584,0.637,1,6,6
+Bosnia,BIH,1998,1,targeted,human_rights,IEEPA,0,51,0,0,51,0.0,,0,1.55,2.661,6.914,53,0.6,0.662,1,50,51
+Bosnia,BIH,1999,1,targeted,human_rights,IEEPA,0,50,0,0,50,0.0,,0,1.36,2.386,7.034,54,0.621,0.719,1,50,50
+Bosnia,BIH,2000,1,targeted,human_rights,IEEPA,0,65,0,0,65,0.0,1.8696,0,1.26,2.175,7.199,55,0.635,0.725,1,50,65
+Bosnia,BIH,2001,1,targeted,human_rights,IEEPA,0,20,0,0,20,0.0,1.9467,0,1.32,1.948,7.236,56,0.654,0.762,1,20,20
+Bosnia,BIH,2002,1,targeted,human_rights,IEEPA,0,382,0,0,382,0.0,1.4656,0,0.88,1.564,7.382,57,0.654,0.767,1,50,382
+Bosnia,BIH,2003,1,targeted,human_rights,IEEPA,0,68,0,0,68,0.0,1.6624,0,0.82,1.336,7.618,58,0.661,0.782,1,50,68
+Bosnia,BIH,2004,1,targeted,human_rights,IEEPA,0,18,0,0,18,0.0,1.9367,0,1.71,1.312,7.805,59,0.647,0.75,1,18,18
+Bosnia,BIH,2005,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.8054,0,1.83,1.411,7.916,60,0.647,0.75,0,0,0
+Bosnia,BIH,2006,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.8097,0,1.64,1.64,8.06,61,0.626,0.702,0,0,0
+Bosnia,BIH,2007,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.7842,0,2.12,1.638,8.277,62,0.566,0.56,0,0,0
+Bosnia,BIH,2008,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.9483,0,3.64,1.711,8.485,63,0.562,0.557,0,0,0
+Bosnia,BIH,2009,1,targeted,human_rights,IEEPA,0,433,0,0,433,0.0,1.7564,0,1.46,1.291,8.421,64,0.56,0.557,1,50,433
+Bosnia,BIH,2010,1,targeted,human_rights,IEEPA,0,56,0,0,56,0.0,1.7212,0,2.72,1.304,8.413,65,0.566,0.554,1,50,56
+Bosnia,BIH,2011,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.7586,0,3.53,1.474,8.514,66,0.564,0.545,0,0,0
+Bosnia,BIH,2012,1,targeted,human_rights,IEEPA,0,3281,0,0,3281,0.0,1.6221,0,2.22,1.356,8.454,67,0.566,0.542,1,50,3281
+Bosnia,BIH,2013,1,targeted,human_rights,IEEPA,0,89,0,0,89,0.0,1.6153,0,1.76,1.309,8.524,68,0.56,0.546,1,50,89
+Bosnia,BIH,2014,1,targeted,human_rights,IEEPA,0,93,0,0,93,0.0,1.7134,0,1.24,1.3,8.558,69,0.557,0.543,1,50,93
+Bosnia,BIH,2015,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.6792,0,1.02,1.22,8.447,70,0.547,0.531,0,0,0
+Bosnia,BIH,2016,1,targeted,human_rights,IEEPA,0,326,0,0,326,0.0,1.6898,0,1.05,1.276,8.503,71,0.547,0.537,1,50,326
+Bosnia,BIH,2017,1,targeted,human_rights,IEEPA,0,98,0,0,98,0.0,1.6858,0,1.28,1.339,8.584,72,0.541,0.537,1,50,98
+Bosnia,BIH,2018,1,targeted,human_rights,IEEPA,0,97,0,0,97,0.0,1.7913,0,1.05,1.573,8.707,73,0.513,0.523,1,50,97
+Bosnia,BIH,2019,1,targeted,human_rights,IEEPA,0,2,0,0,2,0.0,2.051,0,0.8,1.742,8.72,74,0.515,0.521,1,2,2
+Bosnia,BIH,2020,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.8608,0,0.78,1.616,8.721,75,0.517,0.526,0,0,0
+Bosnia,BIH,2021,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.9754,0,0.81,1.485,8.895,76,0.508,0.519,0,0,0
+Bosnia,BIH,2022,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.9208,0,,1.827,8.943,77,0.521,0.525,0,0,0
+Bosnia,BIH,2023,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.4879,0,,2.367,9.067,78,0.502,0.52,0,0,0
+Bosnia,BIH,2024,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.4956,0,,3.003,9.144,79,0.507,0.518,0,0,0
+Bosnia,BIH,2025,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.4428,0,,3.153,,80,0.498,0.511,0,0,0
+Burundi,BDI,2015,1,targeted,human_rights,IEEPA,4,49,0,0,53,-1.0,2.9389,1,15.53,1.22,5.539,70,0.196,0.08,2,53,53
+Burundi,BDI,2016,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,3.6813,0,19.1,1.276,5.451,71,0.166,0.028,0,0,0
+Burundi,BDI,2017,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,3.7912,0,18.51,1.339,5.506,72,0.157,0.028,0,0,0
+Burundi,BDI,2018,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,3.9979,0,13.43,1.573,5.504,73,0.157,0.028,0,0,0
+Burundi,BDI,2019,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,3.8952,1,13.13,1.742,5.457,74,0.159,0.028,0,0,0
+Burundi,BDI,2020,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,3.7003,1,13.85,1.616,5.545,75,0.168,0.055,0,0,0
+Burundi,BDI,2021,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,3.8774,1,13.96,1.485,5.58,76,0.181,0.073,0,0,0
+Cambodia,KHM,1975,1,comprehensive,national_security,TWEA,0,0,0,0,0,0.0,2.0009,0,,1.38,4.735,30,0.067,0.0,0,0,0
+Cambodia,KHM,1976,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.0064,0,,1.427,4.858,31,0.103,0.007,0,0,0
+Cambodia,KHM,1977,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.5832,0,,1.436,4.839,32,0.13,0.009,0,0,0
+Cambodia,KHM,1978,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,,0,,1.508,4.991,33,0.13,0.009,0,0,0
+Cambodia,KHM,1979,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,3.0197,0,,1.623,4.957,34,0.069,0.009,0,0,0
+Cambodia,KHM,1980,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.5467,0,,1.839,4.964,35,0.07,0.009,0,0,0
+Cambodia,KHM,1981,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.3347,0,,2.144,5.039,36,0.089,0.024,0,0,0
+Cambodia,KHM,1982,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.6757,0,,2.543,5.07,37,0.105,0.031,0,0,0
+Cambodia,KHM,1983,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.5039,0,,2.471,5.116,38,0.105,0.031,0,0,0
+Cambodia,KHM,1984,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.5123,0,,2.752,5.163,39,0.105,0.031,0,0,0
+Cambodia,KHM,1985,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.7451,0,,2.984,5.206,40,0.105,0.031,0,0,0
+Cambodia,KHM,1986,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.7081,0,,2.97,5.224,41,0.105,0.031,0,0,0
+Cambodia,KHM,1987,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,2.9339,0,,2.855,5.063,42,0.105,0.031,0,0,0
+Cambodia,KHM,1988,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,3.2059,0,,2.899,5.498,43,0.105,0.031,0,0,0
+Cambodia,KHM,1989,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.3793,0,,2.995,5.254,44,0.105,0.031,0,0,0
+Cambodia,KHM,1990,1,comprehensive,national_security,TWEA,0,0,0,0,0,-5.0,3.4864,0,,3.091,5.248,45,0.138,0.031,0,0,0
+Cambodia,KHM,1991,1,comprehensive,national_security,TWEA,0,0,0,0,0,-3.0,,1,,3.158,5.589,46,0.139,0.031,0,0,0
+Cambodia,KHM,1992,1,comprehensive,national_security,TWEA,0,0,0,0,0,-1.0,3.3512,1,,3.057,5.727,47,0.164,0.082,0,0,0
+Central African Republic,CAF,2014,1,targeted,human_rights,IEEPA,4,5,0,3,12,0.0,2.7736,1,11.27,1.3,6.016,69,0.282,0.0,3,12,9
+Central African Republic,CAF,2015,1,targeted,human_rights,IEEPA,0,8,0,3,11,0.0,2.4546,1,12.69,1.22,5.904,70,0.284,0.002,2,11,8
+Central African Republic,CAF,2016,1,targeted,human_rights,IEEPA,0,852,0,0,852,6.0,2.5846,0,13.06,1.276,5.959,71,0.4,0.289,1,50,852
+Central African Republic,CAF,2017,1,targeted,human_rights,IEEPA,0,45,0,0,45,6.0,2.6712,1,13.42,1.339,6.069,72,0.396,0.289,1,45,45
+Central African Republic,CAF,2018,1,targeted,human_rights,IEEPA,0,44,0,0,44,6.0,2.6165,1,11.18,1.573,6.121,73,0.406,0.289,1,44,44
+Central African Republic,CAF,2019,1,targeted,human_rights,IEEPA,0,233,0,0,233,6.0,2.8572,1,9.81,1.742,6.108,74,0.379,0.289,1,50,233
+Central African Republic,CAF,2020,1,targeted,human_rights,IEEPA,0,2,0,0,2,6.0,2.5979,1,9.89,1.616,6.137,75,0.374,0.283,1,2,2
+Central African Republic,CAF,2021,1,targeted,human_rights,IEEPA,0,1,0,0,1,6.0,2.615,1,10.26,1.485,6.199,76,0.343,0.178,1,1,1
+Central African Republic,CAF,2022,1,targeted,human_rights,IEEPA,0,0,0,3,3,6.0,3.1374,1,,1.827,6.147,77,0.326,0.157,1,3,0
+Central African Republic,CAF,2023,1,targeted,human_rights,IEEPA,0,510,0,0,510,6.0,3.1484,1,,2.367,6.207,78,0.301,0.138,1,50,510
+Central African Republic,CAF,2024,1,targeted,human_rights,IEEPA,0,0,0,0,0,6.0,2.6549,1,,3.003,6.246,79,0.299,0.163,0,0,0
+Central African Republic,CAF,2025,1,targeted,human_rights,IEEPA,0,0,0,0,0,6.0,2.5065,0,,3.153,,80,0.293,0.123,0,0,0
+China,CHN,1950,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,1,,1.605,,5,0.075,0.0,0,0,0
+China,CHN,1951,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.345,,6,0.075,0.0,0,0,0
+China,CHN,1952,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.28,,7,0.075,0.0,0,0,0
+China,CHN,1953,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.325,,8,0.075,0.0,0,0,0
+China,CHN,1954,1,comprehensive,national_security,TWEA,0,0,0,5,5,-8.0,,1,,1.232,,9,0.074,0.0,1,5,0
+China,CHN,1955,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.14,,10,0.074,0.0,0,0,0
+China,CHN,1956,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,1,,1.13,,11,0.074,0.0,0,0,0
+China,CHN,1957,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.129,,12,0.069,0.0,0,0,0
+China,CHN,1958,1,comprehensive,national_security,TWEA,0,0,0,5,5,-8.0,,1,,1.165,,13,0.069,0.0,1,5,0
+China,CHN,1959,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,1,,1.105,,14,0.069,0.0,0,0,0
+China,CHN,1960,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.281,4.497,15,0.069,0.0,0,0,0
+China,CHN,1961,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.195,4.33,16,0.07,0.0,0,0,0
+China,CHN,1962,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,1,,1.141,4.264,17,0.07,0.0,0,0,0
+China,CHN,1963,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.214,4.31,18,0.07,0.0,0,0,0
+China,CHN,1964,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.198,4.45,19,0.07,0.0,0,0,0
+China,CHN,1965,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,,1.157,4.592,20,0.07,0.0,0,0,0
+China,CHN,1966,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.154,4.649,21,0.071,0.0,0,0,0
+China,CHN,1967,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,1,,1.194,4.572,22,0.071,0.0,0,0,0
+China,CHN,1968,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.179,4.518,23,0.071,0.0,0,0,0
+China,CHN,1969,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,1,,1.248,4.608,24,0.069,0.0,0,0,0
+China,CHN,1970,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,0.84,1.34,4.73,25,0.068,0.0,0,0,0
+China,CHN,1971,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,,0,0.77,1.274,4.778,26,0.068,0.0,0,0,0
+China,CHN,1972,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,2.7202,0,0.9,1.21,4.884,27,0.068,0.0,0,0,0
+China,CHN,1973,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,2.752,0,1.8,1.217,5.058,28,0.07,0.0,0,0,0
+China,CHN,1974,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,2.3295,1,5.0,1.388,5.078,29,0.07,0.0,0,0,0
+China,CHN,1975,1,comprehensive,national_security,TWEA,0,0,0,0,0,-8.0,2.9432,0,7.33,1.38,5.185,30,0.07,0.0,0,0,0
+China,CHN,1976,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.634,0,9.22,1.427,5.11,31,0.07,0.0,0,0,0
+China,CHN,1977,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.7359,0,9.6,1.436,5.224,32,0.069,0.0,0,0,0
+China,CHN,1978,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.0509,1,11.21,1.508,5.054,33,0.076,0.0,0,0,0
+China,CHN,1979,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.3003,1,17.1,1.623,5.216,34,0.092,0.0,0,0,0
+China,CHN,1980,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.4507,1,19.74,1.839,5.274,35,0.098,0.0,0,0,0
+China,CHN,1981,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.3728,1,19.47,2.144,5.285,36,0.098,0.0,0,0,0
+China,CHN,1982,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.6886,0,16.75,2.543,5.317,37,0.098,0.0,0,0,0
+China,CHN,1983,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.3664,1,12.62,2.471,5.42,38,0.098,0.0,0,0,0
+China,CHN,1984,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.3331,1,10.4,2.752,5.526,39,0.098,0.0,0,0,0
+China,CHN,1985,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.4909,0,9.79,2.984,5.687,40,0.098,0.0,0,0,0
+China,CHN,1986,1,comprehensive,national_security,TWEA,0,10,0,0,10,-7.0,2.5348,1,5.76,2.97,5.643,41,0.102,0.0,1,10,10
+China,CHN,1987,1,comprehensive,national_security,TWEA,0,18,0,0,18,-7.0,2.6512,1,6.49,2.855,5.53,42,0.104,0.0,1,18,18
+China,CHN,1988,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.7695,1,6.29,2.899,5.649,43,0.104,0.0,0,0,0
+China,CHN,1989,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.9343,0,7.06,2.995,5.741,44,0.1,0.0,0,0,0
+China,CHN,1990,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.0962,0,8.64,3.091,5.764,45,0.093,0.0,0,0,0
+China,CHN,1991,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.1085,0,6.08,3.158,5.812,46,0.094,0.0,0,0,0
+China,CHN,1992,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.2316,0,5.34,3.057,5.908,47,0.096,0.0,0,0,0
+China,CHN,1993,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.5629,0,4.45,2.897,5.937,48,0.101,0.0,0,0,0
+China,CHN,1994,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,4.3799,0,3.28,2.785,6.165,49,0.102,0.0,1,1,0
+China,CHN,1995,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,4.6245,0,3.27,3.039,6.418,50,0.102,0.0,1,1,0
+China,CHN,1996,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,4.7431,0,3.0,2.986,6.57,51,0.102,0.0,1,1,0
+China,CHN,1997,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2582,0,2.39,2.844,6.668,52,0.102,0.0,0,0,0
+China,CHN,1998,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2628,0,1.72,2.661,6.728,53,0.102,0.0,0,0,0
+China,CHN,1999,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.1825,0,1.85,2.386,6.781,54,0.102,0.0,1,1,0
+China,CHN,2000,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.2231,0,2.7,2.175,6.876,55,0.1,0.0,1,1,0
+China,CHN,2001,1,comprehensive,national_security,TWEA,0,0,0,3,3,-7.0,3.2994,0,2.59,1.948,6.971,56,0.102,0.0,1,3,0
+China,CHN,2002,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.105,0,1.96,1.564,7.059,57,0.102,0.0,1,1,0
+China,CHN,2003,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.2921,0,2.02,1.336,7.175,58,0.103,0.0,0,0,0
+China,CHN,2004,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.677,0,4.72,1.312,7.334,59,0.102,0.0,0,0,0
+China,CHN,2005,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.4302,0,5.1,1.411,7.483,60,0.094,0.0,0,0,0
+China,CHN,2006,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.4216,0,5.52,1.64,7.664,61,0.094,0.0,0,0,0
+China,CHN,2007,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.4345,0,6.33,1.638,7.914,62,0.095,0.0,0,0,0
+China,CHN,2008,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.1813,1,9.65,1.711,8.167,63,0.095,0.0,0,0,0
+China,CHN,2009,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.191,0,3.92,1.291,8.268,64,0.094,0.0,1,1,0
+China,CHN,2010,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.9671,0,6.29,1.304,8.44,65,0.094,0.0,0,0,0
+China,CHN,2011,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.2305,0,7.69,1.474,8.649,66,0.094,0.0,1,1,0
+China,CHN,2012,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.9745,0,4.09,1.356,8.765,67,0.094,0.0,0,0,0
+China,CHN,2013,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.2788,0,2.98,1.309,8.874,68,0.086,0.0,1,1,0
+China,CHN,2014,1,comprehensive,national_security,TWEA,0,0,0,1,1,-7.0,3.0895,0,2.31,1.3,8.959,69,0.084,0.0,1,1,0
+China,CHN,2015,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.2617,0,1.17,1.22,9.009,70,0.082,0.0,0,0,0
+China,CHN,2016,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.6888,0,1.05,1.276,9.019,71,0.08,0.0,0,0,0
+China,CHN,2017,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.9093,0,1.31,1.339,9.103,72,0.078,0.0,0,0,0
+China,CHN,2018,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.8607,0,1.43,1.573,9.219,73,0.076,0.0,0,0,0
+China,CHN,2019,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.2205,0,1.27,1.742,9.244,74,0.075,0.0,0,0,0
+China,CHN,2020,1,comprehensive,national_security,TWEA,4,0,0,0,4,-7.0,3.0165,1,0.86,1.616,9.271,75,0.075,0.0,1,4,4
+China,CHN,2021,1,comprehensive,national_security,TWEA,3,0,0,0,3,-7.0,3.1201,0,1.71,1.485,9.464,76,0.077,0.0,1,3,3
+China,CHN,2022,1,comprehensive,national_security,TWEA,3,0,0,0,3,-7.0,2.9305,0,,1.827,9.47,77,0.075,0.0,1,3,3
+China,CHN,2023,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.5503,0,,2.367,9.469,78,0.074,0.0,0,0,0
+China,CHN,2024,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.905,0,,3.003,9.496,79,0.073,0.0,0,0,0
+China,CHN,2025,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.9765,0,,3.153,,80,0.072,0.0,0,0,0
+Cote d'Ivoire,CIV,2006,1,targeted,human_rights,IEEPA,4,0,0,0,4,0.0,3.0525,0,5.6,1.64,7.115,61,0.434,0.31,1,4,4
+Cote d'Ivoire,CIV,2007,1,targeted,human_rights,IEEPA,0,5,0,0,5,0.0,2.7609,0,4.98,1.638,7.221,62,0.435,0.31,1,5,5
+Cote d'Ivoire,CIV,2008,1,targeted,human_rights,IEEPA,0,3,0,0,3,0.0,2.573,0,5.56,1.711,7.368,63,0.436,0.31,1,3,3
+Cote d'Ivoire,CIV,2009,1,targeted,human_rights,IEEPA,0,71,0,0,71,0.0,2.6943,0,3.87,1.291,7.34,64,0.435,0.31,1,50,71
+Cote d'Ivoire,CIV,2010,1,targeted,human_rights,IEEPA,0,64,0,0,64,0.0,2.4955,0,4.33,1.304,7.348,65,0.446,0.348,1,50,64
+Cote d'Ivoire,CIV,2011,1,targeted,human_rights,IEEPA,0,34,0,0,34,4.0,2.2942,1,5.53,1.474,7.376,66,0.427,0.367,1,34,34
+Cote d'Ivoire,CIV,2012,1,targeted,human_rights,IEEPA,0,67,0,0,67,4.0,2.4897,0,5.37,1.356,7.344,67,0.461,0.441,1,50,67
+Cote d'Ivoire,CIV,2013,1,targeted,human_rights,IEEPA,0,697,0,0,697,4.0,2.7741,0,4.16,1.309,7.488,68,0.465,0.45,1,50,697
+Cote d'Ivoire,CIV,2014,1,targeted,human_rights,IEEPA,0,52,0,0,52,4.0,2.7448,0,3.42,1.3,7.597,69,0.463,0.446,1,50,52
+Cote d'Ivoire,CIV,2015,1,targeted,human_rights,IEEPA,0,49,0,0,49,4.0,2.5457,0,3.07,1.22,7.504,70,0.473,0.46,1,49,49
+Cote d'Ivoire,CIV,2016,1,targeted,human_rights,IEEPA,0,12,0,0,12,4.0,2.6006,0,3.23,1.276,7.53,71,0.529,0.573,1,12,12
+Cuba,CUB,1962,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.101,0,,1.141,,17,0.069,0.0,0,0,0
+Cuba,CUB,1963,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.3745,0,,1.214,,18,0.069,0.0,0,0,0
+Cuba,CUB,1964,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,5.0663,0,,1.198,,19,0.069,0.0,0,0,0
+Cuba,CUB,1965,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,,0,,1.157,,20,0.069,0.0,0,0,0
+Cuba,CUB,1966,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,5.0638,0,,1.154,,21,0.069,0.0,0,0,0
+Cuba,CUB,1967,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.888,0,,1.194,,22,0.069,0.0,0,0,0
+Cuba,CUB,1968,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.3594,0,,1.179,,23,0.069,0.0,0,0,0
+Cuba,CUB,1969,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,2.533,0,,1.248,,24,0.069,0.0,0,0,0
+Cuba,CUB,1970,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,1.9504,0,0.87,1.34,6.469,25,0.069,0.0,0,0,0
+Cuba,CUB,1971,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.2251,0,0.72,1.274,6.647,26,0.069,0.0,0,0,0
+Cuba,CUB,1972,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.7621,0,0.64,1.21,6.793,27,0.069,0.0,0,0,0
+Cuba,CUB,1973,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.0209,0,0.59,1.217,6.984,28,0.069,0.0,0,0,0
+Cuba,CUB,1974,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.3195,0,0.67,1.388,7.104,29,0.069,0.0,0,0,0
+Cuba,CUB,1975,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.1812,0,0.79,1.38,7.226,30,0.069,0.0,0,0,0
+Cuba,CUB,1976,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.1461,0,0.85,1.427,7.273,31,0.069,0.0,0,0,0
+Cuba,CUB,1977,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.3096,0,0.79,1.436,7.295,32,0.069,0.0,0,0,0
+Cuba,CUB,1978,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.9243,0,0.44,1.508,7.516,33,0.069,0.0,0,0,0
+Cuba,CUB,1979,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.6409,0,0.84,1.623,7.604,34,0.069,0.0,0,0,0
+Cuba,CUB,1980,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.4851,0,0.82,1.839,7.616,35,0.071,0.0,0,0,0
+Cuba,CUB,1981,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.7237,0,0.76,2.144,7.624,36,0.071,0.0,0,0,0
+Cuba,CUB,1982,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.0331,0,0.6,2.543,7.656,37,0.071,0.0,0,0,0
+Cuba,CUB,1983,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.7955,0,0.53,2.471,7.706,38,0.071,0.0,0,0,0
+Cuba,CUB,1984,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.8182,0,0.53,2.752,7.778,39,0.071,0.0,0,0,0
+Cuba,CUB,1985,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.1347,0,0.6,2.984,7.722,40,0.071,0.0,0,0,0
+Cuba,CUB,1986,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.2335,0,0.29,2.97,7.768,41,0.071,0.0,0,0,0
+Cuba,CUB,1987,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.1662,0,0.4,2.855,7.8,42,0.071,0.0,0,0,0
+Cuba,CUB,1988,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.3227,0,1.54,2.899,7.876,43,0.071,0.0,0,0,0
+Cuba,CUB,1989,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.2907,0,1.66,2.995,7.85,44,0.071,0.0,0,0,0
+Cuba,CUB,1990,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.1929,0,0.89,3.091,7.899,45,0.071,0.0,0,0,0
+Cuba,CUB,1991,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.4829,0,0.97,3.158,7.727,46,0.071,0.0,0,0,0
+Cuba,CUB,1992,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.7016,0,0.98,3.057,7.624,47,0.071,0.0,0,0,0
+Cuba,CUB,1993,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.5174,0,0.73,2.897,7.632,48,0.103,0.246,0,0,0
+Cuba,CUB,1994,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.667,0,0.75,2.785,7.868,49,0.108,0.288,0,0,0
+Cuba,CUB,1995,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.6323,0,1.1,3.039,7.932,50,0.108,0.288,0,0,0
+Cuba,CUB,1996,1,comprehensive,democracy,TWEA,0,0,0,3,3,-7.0,4.9972,0,1.43,2.986,7.733,51,0.108,0.288,1,3,0
+Cuba,CUB,1997,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,5.0221,0,1.13,2.844,7.743,52,0.108,0.288,0,0,0
+Cuba,CUB,1998,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.974,0,0.57,2.661,7.755,53,0.113,0.32,0,0,0
+Cuba,CUB,1999,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,4.324,0,0.79,2.386,7.848,54,0.113,0.321,0,0,0
+Cuba,CUB,2000,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.9578,0,1.91,2.175,7.92,55,0.113,0.321,0,0,0
+Cuba,CUB,2001,1,comprehensive,democracy,TWEA,0,0,0,0,0,-7.0,3.657,0,1.18,1.948,7.953,56,0.113,0.321,0,0,0
+Cuba,CUB,2002,1,comprehensive,democracy,TWEA,0,396,0,0,396,-7.0,3.6711,0,1.37,1.564,8.008,57,0.113,0.321,1,50,396
+Cuba,CUB,2003,1,comprehensive,democracy,TWEA,0,1376,45,0,1421,-7.0,3.5764,0,1.92,1.336,8.072,58,0.114,0.323,2,70,1421
+Cuba,CUB,2004,1,comprehensive,democracy,TWEA,0,0,20,0,20,-7.0,4.0927,0,2.71,1.312,8.131,59,0.114,0.323,1,20,20
+Cuba,CUB,2005,1,comprehensive,democracy,TWEA,0,0,15,0,15,-7.0,3.8406,0,2.64,1.411,8.239,60,0.113,0.323,1,15,15
+Cuba,CUB,2006,1,comprehensive,democracy,TWEA,0,0,26,0,26,-7.0,4.0171,0,3.75,1.64,8.373,61,0.113,0.323,1,20,26
+Cuba,CUB,2007,1,comprehensive,democracy,TWEA,0,0,20,0,20,-7.0,3.7263,0,6.72,1.638,8.478,62,0.113,0.323,1,20,20
+Cuba,CUB,2008,1,comprehensive,democracy,TWEA,0,0,25,0,25,-7.0,3.8657,0,3.19,1.711,8.514,63,0.105,0.256,1,20,25
+Cuba,CUB,2009,1,comprehensive,democracy,TWEA,0,0,11,0,11,-7.0,3.7986,0,1.76,1.291,8.535,64,0.167,0.252,1,11,11
+Cuba,CUB,2010,1,comprehensive,democracy,TWEA,0,0,17,0,17,-7.0,3.8405,0,2.69,1.304,8.57,65,0.167,0.252,1,17,17
+Cuba,CUB,2011,1,comprehensive,democracy,TWEA,0,0,11,0,11,-7.0,3.7561,0,2.93,1.474,8.717,66,0.167,0.252,1,11,11
+Cuba,CUB,2012,1,comprehensive,democracy,TWEA,0,0,10,0,10,-7.0,4.1371,0,2.19,1.356,8.775,67,0.167,0.252,1,10,10
+Cuba,CUB,2013,1,comprehensive,democracy,TWEA,0,0,11,0,11,-7.0,4.0257,0,1.71,1.309,8.829,68,0.168,0.265,1,11,11
+Cuba,CUB,2014,1,comprehensive,democracy,TWEA,0,0,10,0,10,-7.0,4.1029,0,1.67,1.3,8.874,69,0.168,0.267,1,10,10
+Cuba,CUB,2015,1,comprehensive,democracy,TWEA,0,0,10,0,10,-7.0,4.1238,0,0.69,1.22,8.953,70,0.168,0.267,1,10,10
+Cuba,CUB,2016,1,comprehensive,democracy,TWEA,0,0,10,0,10,-7.0,4.1558,0,0.47,1.276,9.001,71,0.169,0.267,1,10,10
+Cuba,CUB,2017,1,comprehensive,democracy,TWEA,0,0,8,0,8,-7.0,4.2054,0,0.66,1.339,9.061,72,0.168,0.268,1,8,8
+Cuba,CUB,2018,1,comprehensive,democracy,TWEA,0,0,2,0,2,-5.0,4.32,0,1.1,1.573,9.095,73,0.177,0.296,1,2,2
+Cuba,CUB,2019,1,comprehensive,democracy,TWEA,0,0,14,0,14,-5.0,4.3896,0,0.92,1.742,9.13,74,0.181,0.301,1,14,14
+Cuba,CUB,2020,1,comprehensive,democracy,TWEA,0,0,5,0,5,-5.0,4.1423,0,0.57,1.616,9.17,75,0.178,0.301,1,5,5
+Cuba,CUB,2021,1,comprehensive,democracy,TWEA,0,0,7,0,7,-5.0,4.2066,0,,1.485,,76,0.178,0.301,1,7,7
+Cuba,CUB,2022,1,comprehensive,democracy,TWEA,0,0,6,0,6,-5.0,4.2369,0,,1.827,,77,0.178,0.301,1,6,6
+Cuba,CUB,2023,1,comprehensive,democracy,TWEA,0,0,0,0,0,-5.0,3.5482,0,,2.367,,78,0.175,0.297,0,0,0
+Cuba,CUB,2024,1,comprehensive,democracy,TWEA,0,0,5,0,5,-5.0,3.312,0,,3.003,,79,0.178,0.296,1,5,5
+Cuba,CUB,2025,1,comprehensive,democracy,TWEA,0,0,3,0,3,-5.0,3.3909,0,,3.153,,80,0.176,0.296,1,3,3
+DRC,COD,2006,1,targeted,human_rights,IEEPA,4,0,0,0,4,5.0,3.1244,1,24.03,1.64,5.543,61,0.251,0.116,1,4,4
+DRC,COD,2007,1,targeted,human_rights,IEEPA,0,11,0,0,11,5.0,3.8112,1,25.76,1.638,5.684,62,0.355,0.265,1,11,11
+DRC,COD,2008,1,targeted,human_rights,IEEPA,0,0,0,0,0,5.0,2.9517,1,28.46,1.711,5.866,63,0.357,0.265,0,0,0
+DRC,COD,2009,1,targeted,human_rights,IEEPA,0,255,0,0,255,5.0,3.0972,0,28.26,1.291,5.635,64,0.36,0.265,1,50,255
+DRC,COD,2010,1,targeted,human_rights,IEEPA,0,55,0,0,55,5.0,2.7903,0,25.96,1.304,5.865,65,0.352,0.243,1,50,55
+DRC,COD,2011,1,targeted,human_rights,IEEPA,0,1211,0,0,1211,5.0,2.6757,1,28.88,1.474,5.92,66,0.347,0.236,1,50,1211
+DRC,COD,2012,1,targeted,human_rights,IEEPA,0,9,0,0,9,5.0,3.1211,1,27.12,1.356,6.016,67,0.321,0.172,1,9,9
+DRC,COD,2013,1,targeted,human_rights,IEEPA,0,0,0,0,0,5.0,2.9732,1,25.75,1.309,6.132,68,0.319,0.157,0,0,0
+DRC,COD,2014,1,targeted,human_rights,IEEPA,3,2,0,0,5,5.0,3.1629,1,24.56,1.3,6.193,69,0.318,0.158,2,5,5
+DRC,COD,2015,1,targeted,human_rights,IEEPA,0,0,0,0,0,5.0,3.1462,0,20.11,1.22,6.206,70,0.316,0.152,0,0,0
+DRC,COD,2016,1,targeted,human_rights,IEEPA,0,1248,0,0,1248,-3.0,3.2316,1,20.57,1.276,6.131,71,0.305,0.152,1,50,1248
+DRC,COD,2017,1,targeted,human_rights,IEEPA,0,0,0,0,0,-3.0,2.87,1,24.77,1.339,6.066,72,0.304,0.15,0,0,0
+DRC,COD,2018,1,targeted,human_rights,IEEPA,0,4,0,0,4,-3.0,3.0538,1,18.42,1.573,6.25,73,0.306,0.153,1,4,4
+DRC,COD,2019,1,targeted,human_rights,IEEPA,0,1,0,0,1,-3.0,2.9377,1,12.75,1.742,6.223,74,0.344,0.196,1,1,1
+DRC,COD,2020,1,targeted,human_rights,IEEPA,0,1,0,0,1,-3.0,3.1006,1,15.93,1.616,6.187,75,0.347,0.199,1,1,1
+DRC,COD,2021,1,targeted,human_rights,IEEPA,0,0,0,0,0,-3.0,2.6653,1,38.83,1.485,6.39,76,0.342,0.199,0,0,0
+DRC,COD,2022,1,targeted,human_rights,IEEPA,0,0,0,0,0,-3.0,2.6396,1,,1.827,6.533,77,0.336,0.191,0,0,0
+DRC,COD,2023,1,targeted,human_rights,IEEPA,0,1168,0,0,1168,-3.0,2.4524,1,,2.367,6.493,78,0.333,0.191,1,50,1168
+DRC,COD,2024,1,targeted,human_rights,IEEPA,0,6,0,0,6,-3.0,2.3283,1,,3.003,6.476,79,0.308,0.18,1,6,6
+DRC,COD,2025,1,targeted,human_rights,IEEPA,0,0,0,0,0,-3.0,2.1868,0,,3.153,,80,0.306,0.18,0,0,0
+Eritrea,ERI,2010,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,2.9885,0,2.52,1.304,6.291,65,0.068,0.0,0,0,0
+Eritrea,ERI,2011,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.0356,0,26.96,1.474,6.535,66,0.068,0.0,0,0,0
+Eritrea,ERI,2012,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,2.9062,0,,1.356,,67,0.067,0.0,0,0,0
+Eritrea,ERI,2013,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.1229,0,,1.309,,68,0.07,0.0,0,0,0
+Eritrea,ERI,2014,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.2167,0,,1.3,,69,0.07,0.0,0,0,0
+Eritrea,ERI,2015,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.1274,0,,1.22,,70,0.069,0.0,0,0,0
+Eritrea,ERI,2016,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.0977,1,,1.276,,71,0.069,0.0,0,0,0
+Eritrea,ERI,2017,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.0716,0,,1.339,,72,0.069,0.0,0,0,0
+Eritrea,ERI,2018,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.32,0,,1.573,,73,0.068,0.0,0,0,0
+Eritrea,ERI,2019,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.3158,0,,1.742,,74,0.07,0.0,0,0,0
+Eritrea,ERI,2020,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.2465,0,,1.616,,75,0.069,0.0,0,0,0
+Eritrea,ERI,2021,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.2196,0,,1.485,,76,0.071,0.0,0,0,0
+Eritrea,ERI,2022,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.6454,0,,1.827,,77,0.071,0.0,0,0,0
+Eritrea,ERI,2023,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.3082,0,,2.367,,78,0.068,0.0,0,0,0
+Eritrea,ERI,2024,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.3327,0,,3.003,,79,0.069,0.0,0,0,0
+Eritrea,ERI,2025,1,targeted,national_security,IEEPA,0,0,0,0,0,-7.0,3.4069,0,,3.153,,80,0.069,0.0,0,0,0
+Ethiopia,ETH,2021,1,targeted,human_rights,IEEPA,0,0,0,0,0,1.0,3.0671,1,5.87,1.485,6.795,76,0.29,0.297,0,0,0
+Ethiopia,ETH,2022,1,targeted,human_rights,IEEPA,4,0,0,0,4,1.0,3.3185,1,,1.827,6.89,77,0.3,0.348,1,4,4
+Germany (East),DDR,1945,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.365,,0,,,0,0,0
+Germany (East),DDR,1946,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.807,,1,,,0,0,0
+Germany (East),DDR,1947,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.684,,2,,,0,0,0
+Germany (East),DDR,1948,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.582,,3,,,0,0,0
+Germany (East),DDR,1949,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.66,,4,,,0,0,0
+Germany (East),DDR,1950,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.605,,5,,,0,0,0
+Germany (East),DDR,1951,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.345,,6,,,0,0,0
+Germany (East),DDR,1952,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.28,,7,,,0,0,0
+Germany (East),DDR,1953,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.325,,8,,,0,0,0
+Germany (East),DDR,1954,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.232,,9,,,0,0,0
+Germany (East),DDR,1955,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.14,,10,,,0,0,0
+Germany (East),DDR,1956,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.13,,11,,,0,0,0
+Germany (East),DDR,1957,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.129,,12,,,0,0,0
+Germany (East),DDR,1958,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.165,,13,,,0,0,0
+Germany (East),DDR,1959,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.105,,14,,,0,0,0
+Germany (East),DDR,1960,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.281,,15,,,0,0,0
+Germany (East),DDR,1961,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.195,,16,,,0,0,0
+Germany (East),DDR,1962,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.141,,17,,,0,0,0
+Germany (East),DDR,1963,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.214,,18,,,0,0,0
+Germany (East),DDR,1964,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.198,,19,,,0,0,0
+Germany (East),DDR,1965,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.157,,20,,,0,0,0
+Germany (East),DDR,1966,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.154,,21,,,0,0,0
+Germany (East),DDR,1967,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.194,,22,,,0,0,0
+Germany (East),DDR,1968,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.179,,23,,,0,0,0
+Germany (East),DDR,1969,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.248,,24,,,0,0,0
+Germany (East),DDR,1970,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.34,,25,,,0,0,0
+Germany (East),DDR,1971,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.274,,26,,,0,0,0
+Germany (East),DDR,1972,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.21,,27,,,0,0,0
+Germany (East),DDR,1973,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,,0,,1.217,,28,,,0,0,0
+Germany (East),DDR,1974,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.5947,0,,1.388,,29,,,0,0,0
+Germany (East),DDR,1975,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.4377,0,,1.38,,30,,,0,0,0
+Germany (East),DDR,1976,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.8468,0,,1.427,,31,,,0,0,0
+Germany (East),DDR,1977,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.628,0,,1.436,,32,,,0,0,0
+Germany (East),DDR,1978,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.5845,0,,1.508,,33,,,0,0,0
+Germany (East),DDR,1979,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.3613,0,,1.623,,34,,,0,0,0
+Germany (East),DDR,1980,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.3771,0,,1.839,,35,,,0,0,0
+Germany (East),DDR,1981,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.2853,0,,2.144,,36,,,0,0,0
+Germany (East),DDR,1982,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.4067,0,,2.543,,37,,,0,0,0
+Germany (East),DDR,1983,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.2951,0,,2.471,,38,,,0,0,0
+Germany (East),DDR,1984,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.3139,0,,2.752,,39,,,0,0,0
+Germany (East),DDR,1985,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,3.9561,0,,2.984,,40,,,0,0,0
+Germany (East),DDR,1986,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.1249,0,,2.97,,41,,,0,0,0
+Germany (East),DDR,1987,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,4.006,0,,2.855,,42,,,0,0,0
+Germany (East),DDR,1988,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,3.8093,0,,2.899,,43,,,0,0,0
+Germany (East),DDR,1989,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,3.5965,0,,2.995,,44,,,0,0,0
+Germany (East),DDR,1990,1,comprehensive,national_security,TWEA,0,0,0,0,0,-9.0,3.6243,0,,3.091,,45,,,0,0,0
+Haiti,HTI,1991,1,comprehensive,democracy,IEEPA,4,0,0,0,4,-7.0,3.1667,0,0.75,3.158,6.208,46,0.327,0.264,1,4,4
+Haiti,HTI,1992,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-7.0,3.3825,0,1.17,3.057,5.757,47,0.18,0.0,0,0,0
+Haiti,HTI,1993,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-7.0,3.2931,0,1.25,2.897,5.553,48,0.207,0.0,0,0,0
+Haiti,HTI,1994,1,comprehensive,democracy,IEEPA,0,0,0,1,1,6.0,3.1712,0,1.19,2.785,5.677,49,0.232,0.0,1,1,0
+Hong Kong,HKG,2020,1,targeted,democracy,IEEPA,4,0,0,0,4,-3.0,,0,0.0,1.616,10.739,75,0.255,0.679,1,4,4
+Hong Kong,HKG,2021,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,,0,0.0,1.485,10.815,76,0.205,0.634,0,0,0
+Hong Kong,HKG,2022,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,1.827,10.796,77,0.16,0.332,0,0,0
+Hong Kong,HKG,2023,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,2.367,10.831,78,0.149,0.271,0,0,0
+Hong Kong,HKG,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,3.003,10.898,79,0.158,0.297,0,0,0
+Hong Kong,HKG,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,3.153,,80,0.151,0.286,0,0,0
+Iran,IRN,1979,1,comprehensive,terrorism,IEEPA,4,0,0,0,4,-6.0,1.985,1,36.96,1.623,7.763,34,0.159,0.189,1,4,4
+Iran,IRN,1980,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,2.6421,1,34.49,1.839,7.77,35,0.167,0.312,0,0,0
+Iran,IRN,1981,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,2.6837,1,27.27,2.144,7.78,36,0.121,0.289,0,0,0
+Iran,IRN,1982,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.0529,1,20.0,2.543,7.953,37,0.106,0.218,0,0,0
+Iran,IRN,1983,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.0099,1,16.24,2.471,8.131,38,0.104,0.218,0,0,0
+Iran,IRN,1984,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,2.9744,1,15.17,2.752,8.13,39,0.108,0.227,0,0,0
+Iran,IRN,1985,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.0851,1,13.36,2.984,8.198,40,0.109,0.24,0,0,0
+Iran,IRN,1986,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.1897,1,5.62,2.97,8.31,41,0.109,0.251,0,0,0
+Iran,IRN,1987,1,comprehensive,terrorism,IEEPA,3,0,0,0,3,-6.0,3.4664,1,12.16,2.855,7.829,42,0.171,0.251,1,3,3
+Iran,IRN,1988,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.094,1,11.69,2.899,7.712,43,0.177,0.269,0,0,0
+Iran,IRN,1989,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.9634,0,18.4,2.995,7.662,44,0.168,0.295,0,0,0
+Iran,IRN,1990,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.9673,1,23.99,3.091,7.668,45,0.16,0.276,0,0,0
+Iran,IRN,1991,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.924,1,,3.158,7.694,46,0.16,0.276,0,0,0
+Iran,IRN,1992,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.6982,0,,3.057,7.579,47,0.159,0.274,0,0,0
+Iran,IRN,1993,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.924,1,30.84,2.897,6.945,48,0.162,0.289,0,0,0
+Iran,IRN,1994,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.1841,0,25.81,2.785,7.063,49,0.165,0.301,0,0,0
+Iran,IRN,1995,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.6881,0,20.77,3.039,7.346,50,0.165,0.301,0,0,0
+Iran,IRN,1996,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.7014,1,20.99,2.986,7.557,51,0.174,0.336,0,0,0
+Iran,IRN,1997,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,3.0,4.8214,1,19.76,2.844,7.49,52,0.218,0.38,0,0,0
+Iran,IRN,1998,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,3.0,4.7732,0,13.4,2.661,7.444,53,0.231,0.427,0,0,0
+Iran,IRN,1999,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,3.0,4.2288,1,18.63,2.386,7.461,54,0.234,0.427,0,0,0
+Iran,IRN,2000,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,3.0,3.6987,1,33.08,2.175,7.409,55,0.233,0.414,0,0,0
+Iran,IRN,2001,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,3.0,3.7641,1,24.06,1.948,7.54,56,0.234,0.43,0,0,0
+Iran,IRN,2002,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,3.0,3.9774,0,22.9,1.564,7.545,57,0.232,0.42,0,0,0
+Iran,IRN,2003,1,comprehensive,terrorism,IEEPA,0,0,0,3,3,3.0,3.8323,0,24.18,1.336,7.7,58,0.232,0.42,1,3,0
+Iran,IRN,2004,1,comprehensive,terrorism,IEEPA,0,0,0,3,3,-7.0,3.9989,0,27.24,1.312,7.891,59,0.207,0.283,1,3,0
+Iran,IRN,2005,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-6.0,3.9264,1,34.48,1.411,8.049,60,0.177,0.246,1,1,1
+Iran,IRN,2006,1,comprehensive,terrorism,IEEPA,0,32,0,0,32,-6.0,4.2479,1,34.78,1.64,8.194,61,0.173,0.236,1,32,32
+Iran,IRN,2007,1,comprehensive,terrorism,IEEPA,0,41,0,0,41,-6.0,4.004,1,29.18,1.638,8.453,62,0.173,0.236,1,41,41
+Iran,IRN,2008,1,comprehensive,terrorism,IEEPA,0,35,1,0,36,-6.0,4.0091,1,33.52,1.711,8.59,63,0.167,0.202,2,36,36
+Iran,IRN,2009,1,comprehensive,terrorism,IEEPA,0,0,1,1,2,-7.0,4.3583,1,20.34,1.291,8.597,64,0.158,0.159,2,2,1
+Iran,IRN,2010,1,comprehensive,terrorism,IEEPA,0,77,2,0,79,-7.0,3.8971,1,23.07,1.304,8.747,65,0.144,0.127,2,52,79
+Iran,IRN,2011,1,comprehensive,terrorism,IEEPA,0,0,1,1,2,-7.0,4.4478,1,25.35,1.474,8.99,66,0.145,0.127,2,2,1
+Iran,IRN,2012,1,comprehensive,terrorism,IEEPA,9,8,3,3,23,-7.0,3.9712,0,21.12,1.356,9.001,67,0.158,0.235,4,23,20
+Iran,IRN,2013,1,comprehensive,terrorism,IEEPA,0,0,11,1,12,-7.0,4.2699,0,24.95,1.309,8.736,68,0.174,0.334,2,12,11
+Iran,IRN,2014,1,comprehensive,terrorism,IEEPA,0,0,11,0,11,-7.0,4.2033,0,24.86,1.3,8.643,69,0.183,0.382,1,11,11
+Iran,IRN,2015,1,comprehensive,terrorism,IEEPA,0,0,10,0,10,-7.0,4.1581,0,15.23,1.22,8.508,70,0.186,0.382,1,10,10
+Iran,IRN,2016,1,comprehensive,terrorism,IEEPA,2,0,12,0,14,-7.0,3.7645,1,13.14,1.276,8.65,71,0.186,0.382,2,14,14
+Iran,IRN,2017,1,comprehensive,terrorism,IEEPA,0,0,9,0,9,-7.0,4.382,1,17.47,1.339,8.7,72,0.185,0.37,1,9,9
+Iran,IRN,2018,1,comprehensive,terrorism,IEEPA,3,0,6,0,9,-7.0,3.8945,1,34.24,1.573,8.473,73,0.182,0.367,2,9,9
+Iran,IRN,2019,1,comprehensive,terrorism,IEEPA,9,0,14,0,23,-7.0,4.4766,1,27.8,1.742,8.293,74,0.181,0.367,2,23,23
+Iran,IRN,2020,1,comprehensive,terrorism,IEEPA,3,0,5,4,12,-7.0,4.1619,1,23.24,1.616,8.072,75,0.165,0.266,3,12,8
+Iran,IRN,2021,1,comprehensive,terrorism,IEEPA,0,0,8,3,11,-7.0,4.0954,1,30.45,1.485,8.435,76,0.158,0.241,2,11,8
+Iran,IRN,2022,1,comprehensive,terrorism,IEEPA,0,0,7,3,10,-7.0,4.4403,1,,1.827,8.46,77,0.148,0.226,2,10,7
+Iran,IRN,2023,1,comprehensive,terrorism,IEEPA,0,0,0,3,3,-7.0,3.7638,1,,2.367,8.527,78,0.153,0.233,1,3,0
+Iran,IRN,2024,1,comprehensive,terrorism,IEEPA,0,0,5,3,8,-7.0,3.6674,1,,3.003,8.555,79,0.166,0.23,2,8,5
+Iran,IRN,2025,1,comprehensive,terrorism,IEEPA,0,0,3,0,3,-7.0,3.3078,0,,3.153,,80,0.159,0.235,1,3,3
+Iraq,IRQ,1990,1,comprehensive,national_security,IEEPA,7,0,0,0,7,-9.0,4.1101,1,9.5,3.091,9.236,45,0.081,0.044,1,7,7
+Iraq,IRQ,1991,1,comprehensive,national_security,IEEPA,0,0,0,5,5,-9.0,4.0003,1,,3.158,3.133,46,0.08,0.044,1,5,0
+Iraq,IRQ,1992,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,4.2853,1,,3.057,3.41,47,0.08,0.044,1,3,0
+Iraq,IRQ,1993,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,4.5491,1,,2.897,3.984,48,0.082,0.044,1,3,0
+Iraq,IRQ,1994,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,4.694,1,67.44,2.785,5.289,49,0.083,0.044,1,3,0
+Iraq,IRQ,1995,1,comprehensive,national_security,IEEPA,0,0,0,0,0,-9.0,4.7225,1,23.08,3.039,6.428,50,0.097,0.047,0,0,0
+Iraq,IRQ,1996,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,,1,36.48,2.986,6.185,51,0.146,0.06,1,3,0
+Iraq,IRQ,1997,1,comprehensive,national_security,IEEPA,0,0,0,1,1,-9.0,,0,32.14,2.844,6.842,52,0.146,0.06,1,1,0
+Iraq,IRQ,1998,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,,0,37.13,2.661,6.803,53,0.146,0.06,1,3,0
+Iraq,IRQ,1999,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,,0,37.02,2.386,7.353,54,0.146,0.06,1,3,0
+Iraq,IRQ,2000,1,comprehensive,national_security,IEEPA,0,0,0,3,3,-9.0,,0,48.86,2.175,7.591,55,0.145,0.057,1,3,0
+Iraq,IRQ,2001,1,comprehensive,national_security,IEEPA,0,2,0,3,5,-9.0,,0,49.57,1.948,7.269,56,0.147,0.056,2,5,2
+Iraq,IRQ,2002,1,comprehensive,national_security,IEEPA,0,1,0,3,4,-9.0,,0,46.97,1.564,7.144,57,0.147,0.056,2,4,1
+Iraq,IRQ,2003,1,comprehensive,national_security,IEEPA,0,41,0,117,158,0.0,,1,53.3,1.336,6.707,58,0.184,0.04,2,61,41
+Iraq,IRQ,2004,1,comprehensive,national_security,IEEPA,0,35,0,5,40,0.0,,1,64.78,1.312,7.192,59,0.21,0.0,2,40,35
+Iraq,IRQ,2005,1,comprehensive,national_security,IEEPA,0,627,0,8,635,0.0,3.8925,1,65.32,1.411,7.474,60,0.237,0.098,2,58,627
+Iraq,IRQ,2006,1,comprehensive,national_security,IEEPA,0,70,0,5,75,-3.0,3.0951,1,63.73,1.64,7.73,61,0.397,0.428,2,55,70
+Iraq,IRQ,2007,1,comprehensive,national_security,IEEPA,0,350,0,5,355,-3.0,3.4052,1,53.22,1.638,8.048,62,0.426,0.428,2,55,350
+Iraq,IRQ,2008,1,comprehensive,national_security,IEEPA,0,53,0,5,58,-3.0,3.259,1,55.69,1.711,8.421,63,0.426,0.432,2,55,53
+Iraq,IRQ,2009,1,comprehensive,national_security,IEEPA,0,0,0,5,5,-3.0,3.2558,1,39.51,1.291,8.22,64,0.425,0.432,1,5,0
+Iraq,IRQ,2010,1,comprehensive,national_security,IEEPA,0,367,0,3,370,3.0,3.1631,1,43.57,1.304,8.403,65,0.414,0.407,2,53,367
+Iraq,IRQ,2011,1,comprehensive,national_security,IEEPA,0,28,0,3,31,3.0,2.9576,1,51.19,1.474,8.661,66,0.413,0.401,2,31,28
+Iraq,IRQ,2012,1,comprehensive,national_security,IEEPA,0,0,0,1,1,3.0,3.0268,1,49.85,1.356,8.776,67,0.41,0.401,1,1,0
+Iraq,IRQ,2013,1,comprehensive,national_security,IEEPA,0,0,0,1,1,3.0,3.0628,1,45.58,1.309,8.802,68,0.414,0.382,1,1,0
+Iraq,IRQ,2014,1,comprehensive,national_security,IEEPA,2,3,0,5,10,6.0,3.2458,1,46.85,1.3,8.74,69,0.403,0.362,3,10,5
+Iraq,IRQ,2015,1,comprehensive,national_security,IEEPA,0,9,0,5,14,6.0,3.3293,1,37.5,1.22,8.398,70,0.396,0.349,2,14,9
+Iraq,IRQ,2016,1,comprehensive,national_security,IEEPA,0,322,0,5,327,6.0,3.3587,1,33.22,1.276,8.374,71,0.39,0.33,2,55,322
+Iraq,IRQ,2017,1,comprehensive,national_security,IEEPA,0,57,0,5,62,6.0,3.5648,1,39.2,1.339,8.468,72,0.375,0.33,2,55,57
+Iraq,IRQ,2018,1,comprehensive,national_security,IEEPA,0,40,0,3,43,6.0,3.2987,1,46.15,1.573,8.639,73,0.398,0.342,2,43,40
+Iraq,IRQ,2019,1,comprehensive,national_security,IEEPA,0,0,0,3,3,6.0,3.4976,1,40.61,1.742,8.643,74,0.393,0.365,1,3,0
+Iraq,IRQ,2020,1,comprehensive,national_security,IEEPA,0,1,0,3,4,6.0,3.4253,1,27.42,1.616,8.365,75,0.376,0.359,2,4,1
+Iraq,IRQ,2021,1,comprehensive,national_security,IEEPA,0,0,0,3,3,6.0,3.3502,1,43.45,1.485,8.491,76,0.374,0.37,1,3,0
+Iraq,IRQ,2022,1,comprehensive,national_security,IEEPA,0,0,0,3,3,6.0,3.2532,1,,1.827,8.783,77,0.385,0.382,1,3,0
+Iraq,IRQ,2023,1,comprehensive,national_security,IEEPA,0,0,0,3,3,6.0,3.0063,1,,2.367,8.694,78,0.371,0.382,1,3,0
+Iraq,IRQ,2024,1,comprehensive,national_security,IEEPA,0,0,0,3,3,6.0,3.0302,1,,3.003,8.712,79,0.361,0.364,1,3,0
+Iraq,IRQ,2025,1,comprehensive,national_security,IEEPA,0,0,0,0,0,6.0,2.7858,0,,3.153,,80,0.369,0.372,0,0,0
+Laos,LAO,1975,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,1.497,0,,1.38,,30,0.127,0.197,0,0,0
+Laos,LAO,1976,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.8719,0,,1.427,,31,0.069,0.0,0,0,0
+Laos,LAO,1977,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.2685,0,,1.436,,32,0.069,0.0,0,0,0
+Laos,LAO,1978,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,2.6299,0,,1.508,,33,0.069,0.0,0,0,0
+Laos,LAO,1979,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.0622,0,,1.623,,34,0.069,0.0,0,0,0
+Laos,LAO,1980,1,comprehensive,national_security,TWEA,0,6,0,0,6,-7.0,3.4063,0,,1.839,,35,0.069,0.0,1,6,6
+Laos,LAO,1981,1,comprehensive,national_security,TWEA,0,6,0,0,6,-7.0,4.0832,0,,2.144,,36,0.069,0.0,1,6,6
+Laos,LAO,1982,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2301,0,,2.543,,37,0.069,0.0,0,0,0
+Laos,LAO,1983,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.0708,0,,2.471,,38,0.069,0.0,0,0,0
+Laos,LAO,1984,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.0058,0,1.92,2.752,6.18,39,0.069,0.0,0,0,0
+Laos,LAO,1985,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.1414,0,1.52,2.984,6.45,40,0.069,0.0,0,0,0
+Laos,LAO,1986,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.256,0,2.88,2.97,6.135,41,0.069,0.0,0,0,0
+Laos,LAO,1987,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2445,0,5.01,2.855,5.616,42,0.07,0.0,0,0,0
+Laos,LAO,1988,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.0275,0,9.13,2.899,4.991,43,0.07,0.0,0,0,0
+Laos,LAO,1989,1,comprehensive,national_security,TWEA,0,14,0,0,14,-7.0,3.7321,0,7.8,2.995,5.138,44,0.113,0.085,1,14,14
+Laos,LAO,1990,1,comprehensive,national_security,TWEA,0,15,0,0,15,-7.0,3.6932,0,6.88,3.091,5.302,45,0.116,0.11,1,15,15
+Laos,LAO,1991,1,comprehensive,national_security,TWEA,0,24,0,0,24,-7.0,3.6436,0,6.99,3.158,5.446,46,0.085,0.109,1,24,24
+Laos,LAO,1992,1,comprehensive,national_security,TWEA,0,29,0,0,29,-7.0,3.6762,0,7.1,3.057,5.511,47,0.085,0.109,1,29,29
+Laos,LAO,1993,1,comprehensive,national_security,TWEA,0,43,0,0,43,-7.0,3.8366,0,6.1,2.897,5.647,48,0.085,0.119,1,43,43
+Laos,LAO,1994,1,comprehensive,national_security,TWEA,0,18,0,0,18,-7.0,4.0367,0,6.44,2.785,5.771,49,0.085,0.119,1,18,18
+Laos,LAO,1995,1,comprehensive,national_security,TWEA,0,42,0,0,42,-7.0,4.4521,0,9.06,3.039,5.88,50,0.085,0.119,1,42,42
+Lebanon,LBN,2007,1,targeted,terrorism,IEEPA,4,0,0,0,4,6.0,3.4491,0,0.0,1.638,8.542,62,0.442,0.327,1,4,4
+Lebanon,LBN,2008,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.3708,0,0.0,1.711,8.685,63,0.443,0.332,0,0,0
+Lebanon,LBN,2009,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.309,0,0.0,1.291,8.867,64,0.467,0.362,0,0,0
+Lebanon,LBN,2010,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.1513,0,0.0,1.304,8.939,65,0.466,0.386,0,0,0
+Lebanon,LBN,2011,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.2028,0,0.0,1.474,8.966,66,0.479,0.386,0,0,0
+Lebanon,LBN,2012,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.3702,0,0.0,1.356,9.037,67,0.477,0.386,0,0,0
+Lebanon,LBN,2013,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.4582,0,0.0,1.309,9.007,68,0.486,0.418,0,0,0
+Lebanon,LBN,2014,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.3839,1,0.0,1.3,8.933,69,0.486,0.418,0,0,0
+Lebanon,LBN,2015,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.4623,1,0.0,1.22,8.951,70,0.48,0.418,0,0,0
+Lebanon,LBN,2016,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.2323,0,0.0,1.276,8.998,71,0.479,0.411,0,0,0
+Lebanon,LBN,2017,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.5988,1,0.0,1.339,9.06,72,0.47,0.432,0,0,0
+Lebanon,LBN,2018,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.589,0,0.0,1.573,9.124,73,0.44,0.36,0,0,0
+Lebanon,LBN,2019,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.6783,0,0.0,1.742,9.094,74,0.429,0.335,0,0,0
+Lebanon,LBN,2020,1,targeted,terrorism,IEEPA,0,1,0,0,1,6.0,3.5426,0,0.0,1.616,8.624,75,0.436,0.342,1,1,1
+Lebanon,LBN,2021,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.5112,0,0.0,1.485,8.305,76,0.433,0.331,0,0,0
+Lebanon,LBN,2022,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.1573,0,,1.827,8.204,77,0.405,0.328,0,0,0
+Lebanon,LBN,2023,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,2.9895,0,,2.367,8.154,78,0.361,0.328,0,0,0
+Lebanon,LBN,2024,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,3.0058,0,,3.003,,79,0.347,0.307,0,0,0
+Lebanon,LBN,2025,1,targeted,terrorism,IEEPA,0,0,0,0,0,6.0,2.8298,0,,3.153,,80,0.419,0.307,0,0,0
+Liberia,LBR,2001,1,targeted,human_rights,IEEPA,4,0,0,0,4,0.0,,0,17.25,1.948,5.705,56,0.343,0.492,1,4,4
+Liberia,LBR,2002,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,,0,23.9,1.564,5.702,57,0.343,0.492,0,0,0
+Liberia,LBR,2003,1,targeted,human_rights,IEEPA,0,0,0,0,0,1.0,,0,34.18,1.336,5.48,58,0.303,0.349,0,0,0
+Liberia,LBR,2004,1,targeted,human_rights,IEEPA,0,0,0,0,0,3.0,,0,19.79,1.312,5.649,59,0.239,0.0,0,0,0
+Liberia,LBR,2005,1,targeted,human_rights,IEEPA,0,0,0,0,0,5.0,3.0792,0,20.05,1.411,5.661,60,0.276,0.13,0,0,0
+Liberia,LBR,2006,1,targeted,human_rights,IEEPA,0,0,0,0,0,6.0,3.146,0,17.65,1.64,5.77,61,0.643,0.625,0,0,0
+Liberia,LBR,2007,1,targeted,human_rights,IEEPA,0,0,0,0,0,6.0,3.0971,0,21.58,1.638,5.925,62,0.655,0.625,0,0,0
+Liberia,LBR,2008,1,targeted,human_rights,IEEPA,0,1746,0,0,1746,6.0,3.0186,0,21.77,1.711,6.113,63,0.655,0.625,1,50,1746
+Liberia,LBR,2009,1,targeted,human_rights,IEEPA,0,50,0,0,50,6.0,2.751,0,22.08,1.291,6.106,64,0.657,0.625,1,50,50
+Liberia,LBR,2010,1,targeted,human_rights,IEEPA,0,59,0,0,59,6.0,2.5332,0,18.36,1.304,6.199,65,0.649,0.625,1,50,59
+Liberia,LBR,2011,1,targeted,human_rights,IEEPA,0,47,0,0,47,6.0,2.6348,0,23.27,1.474,6.342,66,0.646,0.618,1,47,47
+Liberia,LBR,2012,1,targeted,human_rights,IEEPA,0,1178,0,0,1178,6.0,2.7406,0,26.71,1.356,6.459,67,0.64,0.6,1,50,1178
+Liberia,LBR,2013,1,targeted,human_rights,IEEPA,0,65,0,0,65,6.0,2.4948,0,28.37,1.309,6.566,68,0.618,0.576,1,50,65
+Liberia,LBR,2014,1,targeted,human_rights,IEEPA,0,52,0,0,52,6.0,2.8148,0,26.18,1.3,6.561,69,0.611,0.576,1,50,52
+Liberia,LBR,2015,1,targeted,human_rights,IEEPA,1,11,0,0,12,6.0,2.5618,0,19.45,1.22,6.54,70,0.611,0.576,2,12,12
+Libya,LBY,1986,1,comprehensive,terrorism,IEEPA,7,0,0,0,7,-7.0,3.9762,0,,2.97,8.703,41,0.072,0.0,1,7,7
+Libya,LBY,1987,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.1826,1,,2.855,8.774,42,0.072,0.0,0,0,0
+Libya,LBY,1988,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.4947,0,,2.899,8.655,43,0.072,0.0,0,0,0
+Libya,LBY,1989,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.2785,0,,2.995,8.664,44,0.072,0.0,0,0,0
+Libya,LBY,1990,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.9494,0,40.39,3.091,8.78,45,0.072,0.0,0,0,0
+Libya,LBY,1991,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.8693,0,23.97,3.158,8.859,46,0.072,0.0,0,0,0
+Libya,LBY,1992,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.7409,0,22.95,3.057,8.896,47,0.072,0.0,0,0,0
+Libya,LBY,1993,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.1204,0,22.89,2.897,8.776,48,0.072,0.0,0,0,0
+Libya,LBY,1994,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.4388,0,22.58,2.785,8.688,49,0.072,0.0,0,0,0
+Libya,LBY,1995,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.8322,0,27.63,3.039,8.557,50,0.072,0.0,0,0,0
+Libya,LBY,1996,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,5.145,0,31.9,2.986,8.629,51,0.072,0.0,0,0,0
+Libya,LBY,1997,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.9648,0,27.19,2.844,8.71,52,0.072,0.0,0,0,0
+Libya,LBY,1998,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.9942,0,18.69,2.661,8.576,53,0.072,0.0,0,0,0
+Libya,LBY,1999,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.3069,0,20.2,2.386,8.838,54,0.072,0.0,0,0,0
+Libya,LBY,2000,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.9588,0,34.26,2.175,8.884,55,0.072,0.0,0,0,0
+Libya,LBY,2001,1,comprehensive,terrorism,IEEPA,0,2,0,0,2,-7.0,4.2345,0,30.39,1.948,8.75,56,0.072,0.0,1,2,2
+Libya,LBY,2002,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.1465,0,49.62,1.564,8.221,57,0.072,0.0,0,0,0
+Libya,LBY,2003,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.148,0,48.72,1.336,8.45,58,0.072,0.0,0,0,0
+Libya,LBY,2004,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.2039,0,55.85,1.312,8.661,59,0.072,0.0,0,0,0
+Libya,LBY,2005,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.8968,0,62.33,1.411,8.997,60,0.072,0.0,0,0,0
+Libya,LBY,2006,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,-7.0,3.8949,0,62.29,1.64,9.215,61,0.072,0.0,1,1,1
+Libya,LBY,2007,1,comprehensive,terrorism,IEEPA,0,2,0,0,2,-7.0,4.1046,0,61.37,1.638,9.319,62,0.072,0.0,1,2,2
+Libya,LBY,2008,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-7.0,4.095,0,66.06,1.711,9.54,63,0.072,0.0,1,1,1
+Libya,LBY,2009,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-7.0,4.0517,0,51.73,1.291,9.164,64,0.071,0.0,1,1,1
+Libya,LBY,2010,1,comprehensive,terrorism,IEEPA,0,0,2,0,2,-7.0,3.7262,0,55.97,1.304,9.359,65,0.071,0.0,1,2,2
+Libya,LBY,2011,1,comprehensive,terrorism,IEEPA,0,23,0,3,26,0.0,3.5783,1,37.56,1.474,8.935,66,0.175,0.0,2,26,23
+Libya,LBY,2012,1,comprehensive,terrorism,IEEPA,0,0,3,0,3,0.0,3.03,0,59.1,1.356,9.614,67,0.329,0.333,1,3,3
+Libya,LBY,2013,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,0.0,2.9944,1,47.74,1.309,9.389,68,0.54,0.669,1,1,1
+Libya,LBY,2014,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,0.0,3.1718,1,31.02,1.3,9.097,69,0.28,0.0,1,1,1
+Libya,LBY,2015,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,0.0,2.9811,1,16.39,1.22,8.917,70,0.285,0.0,1,1,1
+Libya,LBY,2016,1,comprehensive,terrorism,IEEPA,3,2,0,5,10,0.0,3.2052,1,12.25,1.276,8.926,71,0.285,0.0,3,10,5
+Libya,LBY,2017,1,comprehensive,terrorism,IEEPA,0,0,0,3,3,0.0,3.2555,1,22.16,1.339,9.207,72,0.273,0.0,1,3,0
+Libya,LBY,2018,1,comprehensive,terrorism,IEEPA,0,8,0,3,11,0.0,3.3427,1,31.62,1.573,9.323,73,0.268,0.0,2,11,8
+Libya,LBY,2019,1,comprehensive,terrorism,IEEPA,0,0,6,3,9,0.0,3.2802,1,34.5,1.742,9.207,74,0.263,0.0,2,9,6
+Libya,LBY,2020,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,0.0,3.0179,1,11.48,1.616,8.802,75,0.266,0.0,0,0,0
+Libya,LBY,2021,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,0.0,3.1086,0,61.03,1.485,8.504,76,0.216,0.0,1,1,1
+Libya,LBY,2022,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,0.0,3.2836,0,,1.827,8.697,77,0.206,0.0,0,0,0
+Libya,LBY,2023,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,0.0,2.8293,0,,2.367,8.704,78,0.196,0.0,0,0,0
+Libya,LBY,2024,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,0.0,3.0044,0,,3.003,8.79,79,0.195,0.0,0,0,0
+Libya,LBY,2025,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,0.0,2.7891,0,,3.153,,80,0.193,0.0,0,0,0
+Mali,MLI,2022,1,targeted,democracy,IEEPA,0,0,0,8,8,5.0,3.4027,1,,1.827,6.884,77,0.231,0.0,1,8,0
+Mali,MLI,2023,1,targeted,democracy,IEEPA,0,0,0,6,6,5.0,3.2285,1,,2.367,6.951,78,0.229,0.0,1,6,0
+Mali,MLI,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,5.0,2.5652,1,,3.003,6.998,79,0.192,0.0,0,0,0
+Mali,MLI,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,5.0,2.9785,0,,3.153,,80,0.164,0.0,0,0,0
+Myanmar,MMR,1997,1,targeted,democracy,IEEPA,4,0,0,0,4,-5.0,4.6616,1,15.08,2.844,4.682,52,0.096,0.0,1,4,4
+Myanmar,MMR,1998,1,targeted,democracy,IEEPA,0,0,0,0,0,-5.0,4.6202,1,14.65,2.661,4.983,53,0.096,0.0,0,0,0
+Myanmar,MMR,1999,1,targeted,democracy,IEEPA,0,0,0,0,0,-5.0,3.7638,1,9.29,2.386,5.244,54,0.096,0.0,0,0,0
+Myanmar,MMR,2000,1,targeted,democracy,IEEPA,0,0,0,0,0,-5.0,3.8441,1,10.85,2.175,5.281,55,0.096,0.0,0,0,0
+Myanmar,MMR,2001,1,targeted,democracy,IEEPA,0,0,0,0,0,-5.0,3.9053,1,15.83,1.948,4.952,56,0.096,0.0,0,0,0
+Myanmar,MMR,2002,1,targeted,democracy,IEEPA,0,0,0,0,0,-5.0,3.8961,1,17.4,1.564,4.988,57,0.096,0.0,0,0,0
+Myanmar,MMR,2003,1,targeted,democracy,IEEPA,0,0,0,0,0,-5.0,3.8504,1,20.18,1.336,5.413,58,0.096,0.0,0,0,0
+Myanmar,MMR,2004,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,4.1315,1,18.86,1.312,5.414,59,0.096,0.0,0,0,0
+Myanmar,MMR,2005,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.8848,1,18.78,1.411,5.532,60,0.096,0.0,0,0,0
+Myanmar,MMR,2006,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.8724,1,17.76,1.64,5.715,61,0.096,0.0,0,0,0
+Myanmar,MMR,2007,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.8355,1,15.81,1.638,6.039,62,0.096,0.0,0,0,0
+Myanmar,MMR,2008,1,targeted,democracy,IEEPA,0,0,0,0,0,-6.0,3.8234,1,13.96,1.711,6.49,63,0.096,0.0,0,0,0
+Myanmar,MMR,2009,1,targeted,democracy,IEEPA,0,0,1,0,1,-6.0,3.7017,1,8.97,1.291,6.631,64,0.097,0.0,1,1,1
+Myanmar,MMR,2010,1,targeted,democracy,IEEPA,0,0,1,0,1,-6.0,3.5333,1,7.99,1.304,6.918,65,0.119,0.021,1,1,1
+Myanmar,MMR,2011,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,3.836,1,7.36,1.474,7.101,66,0.223,0.147,0,0,0
+Myanmar,MMR,2012,1,targeted,democracy,IEEPA,0,0,3,0,3,-3.0,3.7195,1,5.96,1.356,7.092,67,0.306,0.359,1,3,3
+Myanmar,MMR,2013,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,3.4463,1,5.85,1.309,7.089,68,0.355,0.435,0,0,0
+Myanmar,MMR,2014,1,targeted,democracy,IEEPA,0,0,0,0,0,-3.0,3.7419,1,7.88,1.3,7.165,69,0.357,0.444,0,0,0
+Myanmar,MMR,2015,1,targeted,democracy,IEEPA,0,0,0,0,0,2.0,3.4891,1,6.61,1.22,7.062,70,0.37,0.46,0,0,0
+Myanmar,MMR,2016,1,targeted,democracy,IEEPA,1,0,0,0,1,8.0,3.326,1,6.81,1.276,7.114,71,0.402,0.518,1,1,1
+Myanmar,MMR,2017,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,3.162,1,7.82,1.339,7.149,72,0.402,0.529,0,0,0
+Myanmar,MMR,2018,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,3.1988,1,6.7,1.573,7.169,73,0.397,0.519,0,0,0
+Myanmar,MMR,2019,1,targeted,democracy,IEEPA,0,0,5,0,5,8.0,3.6786,1,5.88,1.742,7.263,74,0.421,0.497,1,5,5
+Myanmar,MMR,2020,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,3.4723,1,4.66,1.616,7.307,75,0.426,0.551,0,0,0
+Myanmar,MMR,2021,1,targeted,democracy,IEEPA,3,0,0,0,3,8.0,3.521,1,8.68,1.485,7.125,76,0.102,0.042,1,3,3
+Myanmar,MMR,2022,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,3.0706,1,,1.827,7.054,77,0.087,0.0,0,0,0
+Myanmar,MMR,2023,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,2.3491,1,,2.367,7.117,78,0.077,0.0,0,0,0
+Myanmar,MMR,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,2.391,1,,3.003,7.215,79,0.08,0.0,0,0,0
+Myanmar,MMR,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,8.0,2.0703,0,,3.153,,80,0.08,0.0,0,0,0
+Nicaragua,NIC,1985,1,comprehensive,national_security,IEEPA,4,0,0,0,4,-1.0,3.4008,0,0.87,2.984,6.585,40,0.362,0.455,1,4,4
+Nicaragua,NIC,1986,1,comprehensive,national_security,IEEPA,0,0,0,0,0,-1.0,3.5366,0,0.88,2.97,6.634,41,0.365,0.455,0,0,0
+Nicaragua,NIC,1987,1,comprehensive,national_security,IEEPA,0,0,0,0,0,-1.0,3.8081,0,0.74,2.855,6.9,42,0.364,0.455,0,0,0
+Nicaragua,NIC,1988,1,comprehensive,national_security,IEEPA,0,0,0,0,0,-1.0,3.821,0,1.08,2.899,6.496,43,0.382,0.461,0,0,0
+Nicaragua,NIC,1989,1,comprehensive,national_security,IEEPA,0,0,0,0,0,-1.0,3.8149,0,2.78,2.995,5.518,44,0.401,0.482,0,0,0
+Nicaragua,NIC,1990,1,comprehensive,national_security,IEEPA,0,0,0,0,0,6.0,3.8064,0,6.72,3.091,5.491,45,0.631,0.654,0,0,0
+Nicaragua,NIC_2,2018,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,1.573,,73,,,0,0,0
+Nicaragua,NIC_2,2019,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,1.742,,74,,,0,0,0
+Nicaragua,NIC_2,2020,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,1.616,,75,,,0,0,0
+Nicaragua,NIC_2,2021,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,1.485,,76,,,0,0,0
+Nicaragua,NIC_2,2022,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,1.827,,77,,,0,0,0
+Nicaragua,NIC_2,2023,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,2.367,,78,,,0,0,0
+Nicaragua,NIC_2,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,3.003,,79,,,0,0,0
+Nicaragua,NIC_2,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,6.0,,0,,3.153,,80,,,0,0,0
+Niger,NER,2023,1,targeted,democracy,IEEPA,0,0,0,0,0,5.0,2.6608,0,,2.367,6.459,78,0.388,0.189,0,0,0
+Niger,NER,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,5.0,2.8811,0,,3.003,6.6,79,0.237,0.0,0,0,0
+Niger,NER,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,5.0,2.6737,0,,3.153,,80,0.227,0.0,0,0,0
+North Korea,PRK,1950,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,5,5,-7.0,,0,,1.605,,5,0.096,0.182,1,5,0
+North Korea,PRK,1951,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,5,5,-7.0,,0,,1.345,,6,0.096,0.182,1,5,0
+North Korea,PRK,1952,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,5,5,-7.0,,0,,1.28,,7,0.096,0.182,1,5,0
+North Korea,PRK,1953,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,5,5,-7.0,,0,,1.325,,8,0.096,0.179,1,5,0
+North Korea,PRK,1954,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-7.0,,0,,1.232,,9,0.096,0.176,0,0,0
+North Korea,PRK,1955,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-7.0,,0,,1.14,,10,0.096,0.176,0,0,0
+North Korea,PRK,1956,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.13,,11,0.096,0.176,0,0,0
+North Korea,PRK,1957,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.129,,12,0.094,0.18,0,0,0
+North Korea,PRK,1958,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.165,,13,0.092,0.173,0,0,0
+North Korea,PRK,1959,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.105,,14,0.092,0.173,0,0,0
+North Korea,PRK,1960,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.281,,15,0.092,0.173,0,0,0
+North Korea,PRK,1961,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.195,,16,0.092,0.173,0,0,0
+North Korea,PRK,1962,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.141,,17,0.091,0.168,0,0,0
+North Korea,PRK,1963,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.214,,18,0.089,0.152,0,0,0
+North Korea,PRK,1964,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.198,,19,0.089,0.152,0,0,0
+North Korea,PRK,1965,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-8.0,,0,,1.157,,20,0.089,0.152,0,0,0
+North Korea,PRK,1966,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.154,,21,0.089,0.152,0,0,0
+North Korea,PRK,1967,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.194,,22,0.089,0.152,0,0,0
+North Korea,PRK,1968,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.179,,23,0.088,0.148,0,0,0
+North Korea,PRK,1969,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.248,,24,0.088,0.148,0,0,0
+North Korea,PRK,1970,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.34,,25,0.088,0.148,0,0,0
+North Korea,PRK,1971,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.274,,26,0.088,0.148,0,0,0
+North Korea,PRK,1972,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.21,,27,0.086,0.148,0,0,0
+North Korea,PRK,1973,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.217,,28,0.087,0.152,0,0,0
+North Korea,PRK,1974,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.388,,29,0.087,0.152,0,0,0
+North Korea,PRK,1975,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.38,,30,0.087,0.152,0,0,0
+North Korea,PRK,1976,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.427,,31,0.087,0.152,0,0,0
+North Korea,PRK,1977,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.436,,32,0.086,0.151,0,0,0
+North Korea,PRK,1978,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.508,,33,0.086,0.144,0,0,0
+North Korea,PRK,1979,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.623,,34,0.086,0.144,0,0,0
+North Korea,PRK,1980,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,1.839,,35,0.086,0.144,0,0,0
+North Korea,PRK,1981,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.144,,36,0.086,0.144,0,0,0
+North Korea,PRK,1982,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.543,,37,0.086,0.15,0,0,0
+North Korea,PRK,1983,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.471,,38,0.087,0.151,0,0,0
+North Korea,PRK,1984,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.752,,39,0.087,0.151,0,0,0
+North Korea,PRK,1985,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.984,,40,0.087,0.151,0,0,0
+North Korea,PRK,1986,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.97,,41,0.086,0.148,0,0,0
+North Korea,PRK,1987,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.855,,42,0.084,0.134,0,0,0
+North Korea,PRK,1988,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.899,,43,0.084,0.134,0,0,0
+North Korea,PRK,1989,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,2.995,,44,0.084,0.134,0,0,0
+North Korea,PRK,1990,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,3.091,,45,0.086,0.149,0,0,0
+North Korea,PRK,1991,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,,0,,3.158,,46,0.087,0.155,0,0,0
+North Korea,PRK,1992,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-9.0,4.2632,0,,3.057,,47,0.084,0.132,0,0,0
+North Korea,PRK,1993,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,1,1,-9.0,4.2295,0,,2.897,,48,0.084,0.132,1,1,0
+North Korea,PRK,1994,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,3,3,-10.0,4.6515,0,,2.785,,49,0.084,0.132,1,3,0
+North Korea,PRK,1995,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,3,3,-10.0,5.0151,0,,3.039,,50,0.084,0.132,1,3,0
+North Korea,PRK,1996,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,1,1,-10.0,4.88,0,,2.986,,51,0.084,0.132,1,1,0
+North Korea,PRK,1997,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,3,3,-10.0,4.9323,0,,2.844,,52,0.084,0.132,1,3,0
+North Korea,PRK,1998,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,3,3,-10.0,5.0049,0,,2.661,,53,0.084,0.129,1,3,0
+North Korea,PRK,1999,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,3,3,-10.0,4.6176,0,,2.386,,54,0.083,0.124,1,3,0
+North Korea,PRK,2000,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,4.1612,0,,2.175,,55,0.083,0.124,0,0,0
+North Korea,PRK,2001,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,3.8797,0,,1.948,,56,0.083,0.124,0,0,0
+North Korea,PRK,2002,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,4.0575,0,,1.564,,57,0.083,0.124,0,0,0
+North Korea,PRK,2003,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,1,1,-10.0,4.0533,0,,1.336,,58,0.083,0.127,1,1,0
+North Korea,PRK,2004,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,4.0147,0,,1.312,,59,0.085,0.131,0,0,0
+North Korea,PRK,2005,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,4.0784,0,,1.411,,60,0.085,0.131,0,0,0
+North Korea,PRK,2006,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,3.9974,0,,1.64,,61,0.085,0.131,0,0,0
+North Korea,PRK,2007,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,3.7082,0,,1.638,,62,0.085,0.131,0,0,0
+North Korea,PRK,2008,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,3.7951,0,,1.711,,63,0.085,0.131,0,0,0
+North Korea,PRK,2009,1,comprehensive,WMD,TWEA/IEEPA,0,21,0,3,24,-10.0,3.8427,0,,1.291,,64,0.085,0.14,2,24,21
+North Korea,PRK,2010,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,3,3,-10.0,3.8019,0,,1.304,,65,0.086,0.142,1,3,0
+North Korea,PRK,2011,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,1,1,-10.0,4.3877,0,,1.474,,66,0.086,0.142,1,1,0
+North Korea,PRK,2012,1,comprehensive,WMD,TWEA/IEEPA,0,6,0,1,7,-10.0,4.0865,0,,1.356,,67,0.086,0.142,2,7,6
+North Korea,PRK,2013,1,comprehensive,WMD,TWEA/IEEPA,0,23,0,1,24,-10.0,4.3865,0,,1.309,,68,0.086,0.142,2,24,23
+North Korea,PRK,2014,1,comprehensive,WMD,TWEA/IEEPA,0,2,0,3,5,-10.0,4.5935,0,,1.3,,69,0.085,0.134,2,5,2
+North Korea,PRK,2015,1,comprehensive,WMD,TWEA/IEEPA,3,0,0,0,3,-10.0,4.5262,0,,1.22,,70,0.085,0.132,1,3,3
+North Korea,PRK,2016,1,comprehensive,WMD,TWEA/IEEPA,3,71,0,0,74,-10.0,2.9325,0,,1.276,,71,0.085,0.132,2,53,74
+North Korea,PRK,2017,1,comprehensive,WMD,TWEA/IEEPA,3,64,0,0,67,-10.0,3.1156,0,,1.339,,72,0.085,0.132,2,53,67
+North Korea,PRK,2018,1,comprehensive,WMD,TWEA/IEEPA,0,43,0,0,43,-10.0,2.8296,0,,1.573,,73,0.085,0.132,1,43,43
+North Korea,PRK,2019,1,comprehensive,WMD,TWEA/IEEPA,0,0,1,0,1,-10.0,3.3625,0,,1.742,,74,0.083,0.125,1,1,1
+North Korea,PRK,2020,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,2.8466,0,,1.616,,75,0.083,0.121,0,0,0
+North Korea,PRK,2021,1,comprehensive,WMD,TWEA/IEEPA,0,0,1,0,1,-10.0,2.8553,0,,1.485,,76,0.083,0.121,1,1,1
+North Korea,PRK,2022,1,comprehensive,WMD,TWEA/IEEPA,0,0,2,0,2,-10.0,2.8633,0,,1.827,,77,0.083,0.122,1,2,2
+North Korea,PRK,2023,1,comprehensive,WMD,TWEA/IEEPA,0,0,1,0,1,-10.0,3.1688,0,,2.367,,78,0.083,0.122,1,1,1
+North Korea,PRK,2024,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,2.746,0,,3.003,,79,0.084,0.122,0,0,0
+North Korea,PRK,2025,1,comprehensive,WMD,TWEA/IEEPA,0,0,0,0,0,-10.0,3.0537,0,,3.153,,80,0.083,0.122,0,0,0
+Pakistan,PAK,2001,1,targeted,terrorism,IEEPA,0,117,0,5,122,-6.0,3.4313,0,1.86,1.948,6.413,56,0.203,0.0,2,55,117
+Pakistan,PAK,2002,1,targeted,terrorism,IEEPA,0,100,0,7,107,-5.0,3.2553,0,2.2,1.564,6.397,57,0.243,0.136,2,57,100
+Pakistan,PAK,2003,1,targeted,terrorism,IEEPA,0,89,0,11,100,-5.0,3.0464,0,2.19,1.336,6.511,58,0.356,0.182,2,61,89
+Pakistan,PAK,2004,1,targeted,terrorism,IEEPA,0,64,0,61,125,-5.0,3.1997,0,2.45,1.312,6.649,59,0.356,0.182,2,70,64
+Pakistan,PAK,2005,1,targeted,terrorism,IEEPA,0,2,0,34,36,-5.0,3.2672,0,2.89,1.411,6.719,60,0.358,0.182,2,22,2
+Pakistan,PAK,2006,1,targeted,terrorism,IEEPA,0,0,0,23,23,-5.0,3.3121,0,2.74,1.64,6.803,61,0.355,0.182,1,20,0
+Pakistan,PAK,2007,1,targeted,terrorism,IEEPA,0,0,0,13,13,2.0,3.2504,0,2.23,1.638,6.906,62,0.351,0.182,1,13,0
+Pakistan,PAK,2008,1,targeted,terrorism,IEEPA,0,800,0,30,830,5.0,3.145,0,2.3,1.711,6.973,63,0.416,0.312,2,70,800
+Pakistan,PAK,2009,1,targeted,terrorism,IEEPA,0,48,0,54,102,5.0,3.2394,0,1.84,1.291,6.871,64,0.451,0.333,2,68,48
+Pakistan,PAK,2010,1,targeted,terrorism,IEEPA,0,21,0,111,132,6.0,2.8881,0,2.28,1.304,6.895,65,0.466,0.343,2,41,21
+Pakistan,PAK,2011,1,targeted,terrorism,IEEPA,0,1,0,60,61,6.0,3.1447,0,2.62,1.474,7.032,66,0.466,0.343,2,21,1
+Pakistan,PAK,2012,1,targeted,terrorism,IEEPA,0,5,0,46,51,6.0,3.1136,0,2.56,1.356,7.094,67,0.466,0.343,2,25,5
+Pakistan,PAK,2013,1,targeted,terrorism,IEEPA,0,2086,0,29,2115,7.0,3.2161,0,2.15,1.309,7.111,68,0.47,0.344,2,70,2086
+Pakistan,PAK,2014,1,targeted,terrorism,IEEPA,0,48,0,27,75,7.0,2.9584,0,2.0,1.3,7.144,69,0.469,0.343,2,68,48
+Pakistan,PAK,2015,1,targeted,terrorism,IEEPA,0,65,0,15,80,7.0,3.393,0,1.23,1.22,7.23,70,0.441,0.337,2,65,65
+Pakistan,PAK,2016,1,targeted,terrorism,IEEPA,0,41,0,10,51,7.0,2.6541,0,0.97,1.276,7.262,71,0.429,0.337,2,51,41
+Pakistan,PAK,2017,1,targeted,terrorism,IEEPA,0,2,0,1,3,7.0,2.7675,0,1.11,1.339,7.326,72,0.419,0.337,2,3,2
+Pakistan,PAK,2018,1,targeted,terrorism,IEEPA,0,0,0,1,1,7.0,2.8073,0,1.24,1.573,7.358,73,0.395,0.318,1,1,0
+Pakistan,PAK,2019,1,targeted,terrorism,IEEPA,0,1134,0,0,1134,7.0,3.1196,0,1.3,1.742,7.237,74,0.368,0.29,1,50,1134
+Pakistan,PAK,2020,1,targeted,terrorism,IEEPA,0,0,0,0,0,7.0,2.7729,0,1.12,1.616,7.153,75,0.377,0.317,0,0,0
+Pakistan,PAK,2021,1,targeted,terrorism,IEEPA,0,0,0,0,0,7.0,2.7469,0,1.44,1.485,7.283,76,0.394,0.311,0,0,0
+Pakistan,PAK,2022,1,targeted,terrorism,IEEPA,0,0,0,0,0,7.0,2.6736,0,,1.827,7.338,77,0.379,0.278,0,0,0
+Pakistan,PAK,2023,1,targeted,terrorism,IEEPA,0,166,0,0,166,7.0,2.9275,0,,2.367,7.215,78,0.334,0.268,1,50,166
+Pakistan,PAK,2024,1,targeted,terrorism,IEEPA,0,258,0,0,258,7.0,2.5594,0,,3.003,7.299,79,0.313,0.172,1,50,258
+Pakistan,PAK,2025,1,targeted,terrorism,IEEPA,0,0,0,0,0,7.0,2.5058,0,,3.153,,80,0.302,0.174,0,0,0
+Panama,PAN,1988,1,comprehensive,narcotics,IEEPA,4,0,0,0,4,-8.0,2.9855,0,0.13,2.899,7.828,43,0.132,0.04,1,4,4
+Panama,PAN,1989,1,comprehensive,narcotics,IEEPA,0,0,0,7,7,8.0,3.0956,0,0.14,2.995,7.809,44,0.146,0.086,1,7,0
+Panama,PAN,1990,1,comprehensive,narcotics,IEEPA,0,0,0,0,0,8.0,3.1751,0,0.27,3.091,7.871,45,0.476,0.326,0,0,0
+Rhodesia/Zimbabwe,RHO,1965,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.157,,20,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1966,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.154,,21,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1967,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.194,,22,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1968,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.179,,23,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1969,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.248,,24,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1970,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.34,,25,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1971,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.274,,26,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1972,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.21,,27,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1973,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.217,,28,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1974,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.388,,29,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1975,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.38,,30,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1976,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.427,,31,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1977,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.436,,32,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1978,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.508,,33,,,0,0,0
+Rhodesia/Zimbabwe,RHO,1979,1,comprehensive,democracy,UNSCR,0,0,0,0,0,-6.0,,0,,1.623,,34,,,0,0,0
+Russia,RUS,2014,1,sectoral,national_security,IEEPA,13,0,0,1,14,4.0,2.5648,1,12.43,1.3,9.551,69,0.264,0.33,2,11,13
+Russia,RUS,2015,1,sectoral,national_security,IEEPA,1,1,0,0,2,4.0,2.4674,1,9.76,1.22,9.135,70,0.265,0.342,2,2,2
+Russia,RUS,2016,1,sectoral,national_security,IEEPA,0,3,0,0,3,4.0,2.2799,1,8.19,1.276,9.067,71,0.263,0.334,1,3,3
+Russia,RUS,2017,1,sectoral,national_security,IEEPA,0,1,1,0,2,4.0,2.2383,1,9.72,1.339,9.274,72,0.261,0.33,2,2,2
+Russia,RUS,2018,1,sectoral,national_security,IEEPA,3,0,0,0,3,4.0,2.4472,1,14.47,1.573,9.325,73,0.264,0.349,1,3,3
+Russia,RUS,2019,1,sectoral,national_security,IEEPA,0,0,0,0,0,4.0,2.7305,1,12.21,1.742,9.346,74,0.259,0.345,0,0,0
+Russia,RUS,2020,1,sectoral,national_security,IEEPA,0,0,0,0,0,4.0,2.5555,1,7.59,1.616,9.221,75,0.255,0.323,0,0,0
+Russia,RUS,2021,1,sectoral,national_security,IEEPA,4,0,2,0,6,4.0,2.5441,0,18.51,1.485,9.427,76,0.245,0.302,2,6,6
+Russia,RUS,2022,1,sectoral,national_security,IEEPA,15,0,0,0,15,4.0,2.5756,1,,1.827,9.656,77,0.206,0.248,1,10,15
+Russia,RUS,2023,1,sectoral,national_security,IEEPA,0,0,0,0,0,4.0,2.9604,1,,2.367,9.558,78,0.19,0.231,0,0,0
+Russia,RUS,2024,1,sectoral,national_security,IEEPA,3,0,5,0,8,4.0,2.5355,1,,3.003,9.608,79,0.171,0.142,2,8,8
+Russia,RUS,2025,1,sectoral,national_security,IEEPA,0,0,1,0,1,4.0,2.9479,0,,3.153,,80,0.17,0.135,1,1,1
+Sierra Leone,SLE,2001,1,targeted,human_rights,IEEPA,4,1668,0,0,1672,2.0,3.0582,0,8.05,1.948,5.881,56,0.232,0.0,2,54,1672
+Sierra Leone,SLE,2002,1,targeted,human_rights,IEEPA,0,69,0,0,69,5.0,3.0488,0,8.44,1.564,5.964,57,0.43,0.371,1,50,69
+Sierra Leone,SLE,2003,1,targeted,human_rights,IEEPA,0,63,0,0,63,5.0,3.375,0,12.88,1.336,6.025,58,0.56,0.563,1,50,63
+Sierra Leone,SLE,2004,1,targeted,human_rights,IEEPA,0,61,0,0,61,5.0,3.2018,0,11.1,1.312,6.035,59,0.557,0.563,1,50,61
+Somalia,SOM,2010,1,targeted,terrorism,IEEPA,4,0,0,0,4,0.0,3.5591,1,,1.304,5.39,65,0.186,0.0,1,4,4
+Somalia,SOM,2011,1,targeted,terrorism,IEEPA,0,0,0,1,1,-7.0,3.3503,1,,1.474,5.461,66,0.19,0.0,1,1,0
+Somalia,SOM,2012,1,targeted,terrorism,IEEPA,3,0,0,2,5,5.0,3.2916,1,,1.356,5.859,67,0.167,0.0,2,5,3
+Somalia,SOM,2013,1,targeted,terrorism,IEEPA,0,0,0,1,1,5.0,3.0136,1,17.81,1.309,5.975,68,0.162,0.0,1,1,0
+Somalia,SOM,2014,1,targeted,terrorism,IEEPA,0,0,0,0,0,5.0,3.1365,1,18.29,1.3,6.062,69,0.162,0.0,0,0,0
+Somalia,SOM,2015,1,targeted,terrorism,IEEPA,0,0,0,5,5,5.0,2.9092,1,18.88,1.22,6.099,70,0.162,0.0,1,5,0
+Somalia,SOM,2016,1,targeted,terrorism,IEEPA,0,0,0,5,5,5.0,3.0897,1,19.55,1.276,6.133,71,0.16,0.0,1,5,0
+Somalia,SOM,2017,1,targeted,terrorism,IEEPA,0,0,0,5,5,5.0,2.8588,1,18.7,1.339,6.236,72,0.167,0.0,1,5,0
+Somalia,SOM,2018,1,targeted,terrorism,IEEPA,0,0,0,5,5,5.0,3.1307,1,11.74,1.573,6.233,73,0.154,0.0,1,5,0
+Somalia,SOM,2019,1,targeted,terrorism,IEEPA,0,0,0,8,8,5.0,3.2497,1,10.73,1.742,6.291,74,0.148,0.0,1,8,0
+Somalia,SOM,2020,1,targeted,terrorism,IEEPA,0,569,0,8,577,5.0,3.1747,1,11.46,1.616,6.25,75,0.154,0.0,2,58,569
+Somalia,SOM,2021,1,targeted,terrorism,IEEPA,0,0,0,8,8,5.0,3.1612,1,11.24,1.485,6.308,76,0.161,0.0,1,8,0
+Somalia,SOM,2022,1,targeted,terrorism,IEEPA,0,0,0,5,5,5.0,3.2417,1,,1.827,6.351,77,0.158,0.0,1,5,0
+Somalia,SOM,2023,1,targeted,terrorism,IEEPA,0,114,0,5,119,5.0,2.5817,1,,2.367,6.392,78,0.167,0.0,2,55,114
+Somalia,SOM,2024,1,targeted,terrorism,IEEPA,0,0,0,8,8,5.0,2.9331,1,,3.003,6.445,79,0.165,0.0,1,8,0
+Somalia,SOM,2025,1,targeted,terrorism,IEEPA,0,0,0,0,0,5.0,2.7678,0,,3.153,,80,0.165,0.0,0,0,0
+South Africa,ZAF,1985,1,comprehensive,human_rights,CAAA,0,0,0,0,0,4.0,,0,10.85,2.984,7.517,40,0.178,0.258,0,0,0
+South Africa,ZAF,1986,1,comprehensive,human_rights,CAAA,0,0,0,0,0,4.0,,0,8.66,2.97,7.615,41,0.178,0.258,0,0,0
+South Africa,ZAF,1987,1,comprehensive,human_rights,CAAA,0,0,0,0,0,4.0,,0,7.1,2.855,7.858,42,0.176,0.25,0,0,0
+South Africa,ZAF,1988,1,comprehensive,human_rights,CAAA,0,0,0,0,0,4.0,,0,6.9,2.899,7.902,43,0.175,0.246,0,0,0
+South Africa,ZAF,1989,1,comprehensive,human_rights,CAAA,0,0,0,0,0,4.0,,0,6.5,2.995,7.911,44,0.186,0.285,0,0,0
+South Africa,ZAF,1990,1,comprehensive,human_rights,CAAA,0,0,0,0,0,5.0,,0,5.7,3.091,8.037,45,0.224,0.292,0,0,0
+South Africa,ZAF,1991,1,comprehensive,human_rights,CAAA,0,0,0,0,0,5.0,,0,5.45,3.158,8.084,46,0.254,0.292,0,0,0
+South Sudan,SSD,2014,1,targeted,human_rights,IEEPA,4,0,0,0,4,0.0,2.2348,1,28.46,1.3,7.125,69,0.164,0.0,1,4,4
+South Sudan,SSD,2015,1,targeted,human_rights,IEEPA,0,6,0,0,6,0.0,2.1763,1,13.05,1.22,6.985,70,0.166,0.0,1,6,6
+South Sudan,SSD,2016,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.4491,1,,1.276,,71,0.158,0.0,0,0,0
+South Sudan,SSD,2017,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.1797,1,,1.339,,72,0.157,0.0,0,0,0
+South Sudan,SSD,2018,1,targeted,human_rights,IEEPA,0,2,0,0,2,0.0,2.0086,1,,1.573,,73,0.153,0.0,1,2,2
+South Sudan,SSD,2019,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.7279,1,,1.742,,74,0.16,0.0,0,0,0
+South Sudan,SSD,2020,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.5373,1,,1.616,,75,0.169,0.0,0,0,0
+South Sudan,SSD,2021,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.9036,1,,1.485,,76,0.137,0.0,0,0,0
+South Sudan,SSD,2022,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.789,0,,1.827,,77,0.13,0.0,0,0,0
+South Sudan,SSD,2023,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,2.341,0,,2.367,,78,0.167,0.0,0,0,0
+South Sudan,SSD,2024,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.8913,0,,3.003,,79,0.154,0.0,0,0,0
+South Sudan,SSD,2025,1,targeted,human_rights,IEEPA,0,0,0,0,0,0.0,1.8574,0,,3.153,,80,0.133,0.0,0,0,0
+Sudan,SDN,1997,1,comprehensive,terrorism,IEEPA,4,0,0,0,4,-7.0,4.626,1,0.26,2.844,5.922,52,0.151,0.055,1,4,4
+Sudan,SDN,1998,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.6408,1,0.26,2.661,5.86,53,0.151,0.055,0,0,0
+Sudan,SDN,1999,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.0948,1,2.11,2.386,5.783,54,0.149,0.055,0,0,0
+Sudan,SDN,2000,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.0429,1,10.78,2.175,5.892,55,0.131,0.003,0,0,0
+Sudan,SDN,2001,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.9576,1,6.91,1.948,6.112,56,0.172,0.053,0,0,0
+Sudan,SDN,2002,1,comprehensive,terrorism,IEEPA,0,3,0,0,3,-7.0,3.9741,1,7.22,1.564,6.227,57,0.173,0.053,1,3,3
+Sudan,SDN,2003,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,4.1302,1,7.01,1.336,6.364,58,0.173,0.053,0,0,0
+Sudan,SDN,2004,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.995,1,10.14,1.312,6.558,59,0.179,0.061,0,0,0
+Sudan,SDN,2005,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.7095,1,12.48,1.411,6.809,60,0.198,0.062,0,0,0
+Sudan,SDN,2006,1,comprehensive,terrorism,IEEPA,3,3,0,0,6,-7.0,3.7954,1,12.54,1.64,7.032,61,0.199,0.062,2,6,6
+Sudan,SDN,2007,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-7.0,3.9877,1,13.68,1.638,7.275,62,0.198,0.064,0,0,0
+Sudan,SDN,2008,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-7.0,4.0096,1,17.98,1.711,7.331,63,0.201,0.07,1,1,1
+Sudan,SDN,2009,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-7.0,4.0465,1,9.84,1.291,7.072,64,0.202,0.07,1,1,1
+Sudan,SDN,2010,1,comprehensive,terrorism,IEEPA,0,0,2,0,2,-7.0,3.7866,1,11.94,1.304,7.174,65,0.213,0.104,1,2,2
+Sudan,SDN,2011,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-4.0,3.6469,1,16.78,1.474,7.195,66,0.212,0.116,1,1,1
+Sudan,SDN,2012,1,comprehensive,terrorism,IEEPA,0,0,2,0,2,-4.0,3.6655,1,6.65,1.356,6.927,67,0.211,0.116,1,2,2
+Sudan,SDN,2013,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-4.0,3.3786,1,7.52,1.309,7.038,68,0.212,0.123,1,1,1
+Sudan,SDN,2014,1,comprehensive,terrorism,IEEPA,0,0,2,0,2,-4.0,3.7527,1,5.17,1.3,7.151,69,0.212,0.123,1,2,2
+Sudan,SDN,2015,1,comprehensive,terrorism,IEEPA,0,0,3,0,3,-4.0,3.8314,1,2.98,1.22,7.164,70,0.22,0.168,1,3,3
+Sudan,SDN,2016,1,comprehensive,terrorism,IEEPA,0,0,1,0,1,-4.0,4.1007,1,2.74,1.276,6.94,71,0.219,0.173,1,1,1
+Sudan,SDN,2017,1,comprehensive,terrorism,IEEPA,3,0,8,0,11,-4.0,3.6984,1,2.48,1.339,6.874,72,0.226,0.186,2,11,11
+Sudan,SDN,2018,1,comprehensive,terrorism,IEEPA,0,0,3,0,3,-4.0,3.763,1,6.15,1.573,6.594,73,0.227,0.186,1,3,3
+Sudan,SDN,2019,1,comprehensive,terrorism,IEEPA,0,0,6,0,6,-4.0,3.8496,0,8.26,1.742,6.565,74,0.193,0.051,1,6,6
+Sudan,SDN,2020,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-4.0,3.6592,1,9.29,1.616,6.359,75,0.167,0.0,0,0,0
+Sudan,SDN,2021,1,comprehensive,terrorism,IEEPA,0,42,0,0,42,-4.0,3.7954,1,12.75,1.485,6.568,76,0.163,0.0,1,42,42
+Sudan,SDN,2022,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-4.0,3.5359,1,,1.827,6.953,77,0.158,0.0,0,0,0
+Sudan,SDN,2023,1,comprehensive,terrorism,IEEPA,4,0,0,0,4,-4.0,3.0735,1,,2.367,6.681,78,0.139,0.0,1,4,4
+Sudan,SDN,2024,1,comprehensive,terrorism,IEEPA,0,2,0,0,2,-4.0,3.2632,1,,3.003,6.892,79,0.137,0.0,1,2,2
+Sudan,SDN,2025,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-4.0,3.1442,0,,3.153,,80,0.13,0.0,0,0,0
+Syria,SYR,1979,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.2637,1,16.93,1.623,7.044,34,0.143,0.061,0,0,0
+Syria,SYR,1980,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.6374,1,15.4,1.839,7.285,35,0.143,0.061,0,0,0
+Syria,SYR,1981,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.5896,1,10.93,2.144,7.424,36,0.143,0.061,0,0,0
+Syria,SYR,1982,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.5112,1,8.1,2.543,7.44,37,0.143,0.062,0,0,0
+Syria,SYR,1983,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.7059,0,7.88,2.471,7.482,38,0.143,0.062,0,0,0
+Syria,SYR,1984,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.6709,0,7.54,2.752,7.442,39,0.143,0.062,0,0,0
+Syria,SYR,1985,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.9743,0,6.54,2.984,7.342,40,0.143,0.062,0,0,0
+Syria,SYR,1986,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.9163,0,2.77,2.97,7.097,41,0.143,0.063,0,0,0
+Syria,SYR,1987,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.3302,0,4.02,2.855,6.905,42,0.143,0.063,0,0,0
+Syria,SYR,1988,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.7498,0,7.53,2.899,6.8,43,0.143,0.063,0,0,0
+Syria,SYR,1989,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.4429,0,12.04,2.995,6.696,44,0.143,0.063,0,0,0
+Syria,SYR,1990,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.0552,0,14.63,3.091,6.886,45,0.144,0.071,0,0,0
+Syria,SYR,1991,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.8762,0,9.29,3.158,6.908,46,0.145,0.075,0,0,0
+Syria,SYR,1992,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.7084,0,8.49,3.057,6.898,47,0.144,0.06,0,0,0
+Syria,SYR,1993,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.0158,0,7.55,2.897,6.901,48,0.144,0.06,0,0,0
+Syria,SYR,1994,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.3074,0,6.08,2.785,6.569,49,0.144,0.064,0,0,0
+Syria,SYR,1995,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.6046,0,6.07,3.039,6.659,50,0.145,0.072,0,0,0
+Syria,SYR,1996,1,comprehensive,terrorism,IEEPA,0,0,0,1,1,-9.0,4.6508,0,6.03,2.986,6.822,51,0.145,0.072,1,1,0
+Syria,SYR,1997,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.9238,0,5.05,2.844,6.847,52,0.145,0.072,0,0,0
+Syria,SYR,1998,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.6796,0,3.11,2.661,6.868,53,0.144,0.071,0,0,0
+Syria,SYR,1999,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.2982,0,4.49,2.386,6.886,54,0.144,0.062,0,0,0
+Syria,SYR,2000,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.0372,0,6.46,2.175,7.037,55,0.15,0.061,0,0,0
+Syria,SYR,2001,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.2058,0,5.23,1.948,7.079,56,0.152,0.061,0,0,0
+Syria,SYR,2002,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.7232,0,5.49,1.564,7.076,57,0.15,0.061,0,0,0
+Syria,SYR,2003,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.9789,0,5.81,1.336,7.107,58,0.15,0.06,0,0,0
+Syria,SYR,2004,1,comprehensive,terrorism,IEEPA,3,0,0,3,6,-6.0,3.8006,0,4.84,1.312,7.221,59,0.149,0.058,2,6,3
+Syria,SYR,2005,1,comprehensive,terrorism,IEEPA,0,0,0,3,3,-6.0,3.3978,0,5.53,1.411,7.336,60,0.148,0.06,1,3,0
+Syria,SYR,2006,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,-6.0,3.7864,0,5.41,1.64,7.449,61,0.148,0.06,1,1,1
+Syria,SYR,2007,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.0061,0,4.81,1.638,7.569,62,0.145,0.04,0,0,0
+Syria,SYR,2008,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.0654,0,5.64,1.711,7.795,63,0.144,0.034,0,0,0
+Syria,SYR,2009,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,4.1823,0,3.3,1.291,7.809,64,0.144,0.034,0,0,0
+Syria,SYR,2010,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-6.0,3.8914,0,4.11,1.304,7.912,65,0.144,0.033,0,0,0
+Syria,SYR,2011,1,comprehensive,terrorism,IEEPA,3,0,0,1,4,-6.0,4.2165,1,20.35,1.474,7.99,66,0.144,0.033,2,4,3
+Syria,SYR,2012,1,comprehensive,terrorism,IEEPA,0,0,0,3,3,-9.0,4.0352,1,15.24,1.356,7.548,67,0.144,0.03,1,3,0
+Syria,SYR,2013,1,comprehensive,terrorism,IEEPA,0,0,1,3,4,-9.0,4.2781,1,10.47,1.309,6.894,68,0.136,0.0,2,4,1
+Syria,SYR,2014,1,comprehensive,terrorism,IEEPA,0,4,0,16,20,-9.0,4.296,1,5.74,1.3,6.967,69,0.137,0.0,2,20,4
+Syria,SYR,2015,1,comprehensive,terrorism,IEEPA,0,10,0,5,15,-9.0,4.1178,1,3.61,1.22,6.743,70,0.136,0.0,2,15,10
+Syria,SYR,2016,1,comprehensive,terrorism,IEEPA,0,4,0,0,4,-9.0,3.9774,1,3.17,1.276,6.487,71,0.136,0.0,1,4,4
+Syria,SYR,2017,1,comprehensive,terrorism,IEEPA,0,7,1,3,11,-9.0,4.4312,1,3.11,1.339,6.747,72,0.137,0.0,3,11,8
+Syria,SYR,2018,1,comprehensive,terrorism,IEEPA,0,1,0,0,1,-9.0,4.348,1,3.35,1.573,7.001,73,0.135,0.0,1,1,1
+Syria,SYR,2019,1,comprehensive,terrorism,IEEPA,3,0,6,0,9,-9.0,4.4687,1,3.77,1.742,7.012,74,0.136,0.0,2,9,9
+Syria,SYR,2020,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.4095,1,6.37,1.616,6.35,75,0.138,0.0,0,0,0
+Syria,SYR,2021,1,comprehensive,terrorism,IEEPA,0,1,2,0,3,-9.0,4.0944,1,,1.485,6.498,76,0.136,0.0,2,3,3
+Syria,SYR,2022,1,comprehensive,terrorism,IEEPA,0,0,2,0,2,-9.0,4.5898,1,,1.827,6.958,77,0.137,0.0,1,2,2
+Syria,SYR,2023,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,4.076,1,,2.367,,78,0.145,0.0,0,0,0
+Syria,SYR,2024,1,comprehensive,terrorism,IEEPA,0,0,0,0,0,-9.0,3.8432,1,,3.003,,79,0.143,0.0,0,0,0
+Syria,SYR,2025,1,comprehensive,terrorism,IEEPA,4,0,0,0,4,-9.0,3.7581,0,,3.153,,80,0.128,0.0,1,4,4
+Uganda,UGA,2023,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,2.9813,0,,2.367,6.91,78,0.259,0.142,0,0,0
+Uganda,UGA,2024,1,targeted,human_rights,IEEPA,0,0,0,0,0,-1.0,2.8367,0,,3.003,6.983,79,0.261,0.129,0,0,0
+Uganda,UGA,2025,1,targeted,human_rights,IEEPA,0,1,0,0,1,-1.0,2.7021,0,,3.153,,80,0.253,0.129,1,1,1
+Venezuela,VEN,2015,1,comprehensive,democracy,IEEPA,4,0,0,0,4,4.0,3.848,0,,1.22,8.32,70,0.3,0.31,1,4,4
+Venezuela,VEN,2016,1,comprehensive,democracy,IEEPA,0,0,0,0,0,4.0,3.9846,0,,1.276,8.208,71,0.293,0.294,0,0,0
+Venezuela,VEN,2017,1,comprehensive,democracy,IEEPA,3,0,0,0,3,-3.0,3.8546,0,,1.339,8.24,72,0.233,0.116,1,3,3
+Venezuela,VEN,2018,1,comprehensive,democracy,IEEPA,12,0,0,0,12,-3.0,3.9897,0,,1.573,8.138,73,0.213,0.088,1,10,12
+Venezuela,VEN,2019,1,comprehensive,democracy,IEEPA,3,0,0,0,3,-3.0,4.1814,0,,1.742,7.833,74,0.209,0.077,1,3,3
+Venezuela,VEN,2020,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-3.0,4.2227,0,,1.616,7.317,75,0.206,0.084,0,0,0
+Venezuela,VEN,2021,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-3.0,4.179,0,,1.485,7.603,76,0.215,0.112,0,0,0
+Venezuela,VEN,2022,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-3.0,4.3273,0,,1.827,8.057,77,0.209,0.11,0,0,0
+Venezuela,VEN,2023,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,2.367,8.194,78,0.206,0.106,0,0,0
+Venezuela,VEN,2024,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,3.003,8.347,79,0.196,0.069,0,0,0
+Venezuela,VEN,2025,1,comprehensive,democracy,IEEPA,0,0,0,0,0,-3.0,,0,,3.153,,80,0.181,0.051,0,0,0
+Vietnam,VNM,1964,1,comprehensive,national_security,TWEA,0,0,0,5,5,-3.0,,0,,1.198,,19,,,1,5,0
+Vietnam,VNM,1965,1,comprehensive,national_security,TWEA,0,0,0,10,10,-8.0,,1,,1.157,,20,,,1,10,0
+Vietnam,VNM,1966,1,comprehensive,national_security,TWEA,0,0,0,10,10,-8.0,,1,,1.154,,21,,,1,10,0
+Vietnam,VNM,1967,1,comprehensive,national_security,TWEA,0,0,0,10,10,-8.0,,1,,1.194,,22,,,1,10,0
+Vietnam,VNM,1968,1,comprehensive,national_security,TWEA,0,0,0,10,10,-8.0,,1,,1.179,,23,,,1,10,0
+Vietnam,VNM,1969,1,comprehensive,national_security,TWEA,0,0,0,10,10,-7.0,,1,,1.248,,24,,,1,10,0
+Vietnam,VNM,1970,1,comprehensive,national_security,TWEA,0,0,0,10,10,-7.0,,1,,1.34,,25,,,1,10,0
+Vietnam,VNM,1971,1,comprehensive,national_security,TWEA,0,0,0,10,10,-7.0,,1,,1.274,,26,,,1,10,0
+Vietnam,VNM,1972,1,comprehensive,national_security,TWEA,0,0,0,10,10,-7.0,,1,,1.21,,27,,,1,10,0
+Vietnam,VNM,1973,1,comprehensive,national_security,TWEA,0,0,0,10,10,0.0,,1,,1.217,,28,,,1,10,0
+Vietnam,VNM,1974,1,comprehensive,national_security,TWEA,0,0,0,0,0,0.0,,1,,1.388,,29,,,0,0,0
+Vietnam,VNM,1975,1,comprehensive,national_security,TWEA,0,0,0,0,0,0.0,,1,,1.38,,30,,,0,0,0
+Vietnam,VNM,1976,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,,1,,1.427,,31,0.212,0.559,0,0,0
+Vietnam,VNM,1977,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,,1,,1.436,,32,0.212,0.562,0,0,0
+Vietnam,VNM,1978,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.0941,1,,1.508,,33,0.149,0.562,0,0,0
+Vietnam,VNM,1979,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.1274,1,,1.623,,34,0.149,0.562,0,0,0
+Vietnam,VNM,1980,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.5275,1,,1.839,,35,0.149,0.554,0,0,0
+Vietnam,VNM,1981,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.8454,1,,2.144,,36,0.146,0.537,0,0,0
+Vietnam,VNM,1982,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2413,0,,2.543,,37,0.144,0.529,0,0,0
+Vietnam,VNM,1983,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.042,1,,2.471,,38,0.144,0.529,0,0,0
+Vietnam,VNM,1984,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.03,1,,2.752,,39,0.144,0.529,0,0,0
+Vietnam,VNM,1985,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.0522,0,2.17,2.984,5.475,40,0.144,0.529,0,0,0
+Vietnam,VNM,1986,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2869,1,1.47,2.97,6.079,41,0.154,0.529,0,0,0
+Vietnam,VNM,1987,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.2405,1,1.16,2.855,6.389,42,0.163,0.527,0,0,0
+Vietnam,VNM,1988,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.1979,1,1.76,2.899,6.003,43,0.165,0.526,0,0,0
+Vietnam,VNM,1989,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,4.1469,0,9.25,2.995,4.586,44,0.161,0.526,0,0,0
+Vietnam,VNM,1990,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.7234,0,12.33,3.091,4.593,45,0.154,0.542,0,0,0
+Vietnam,VNM,1991,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.7796,0,8.02,3.158,4.968,46,0.155,0.542,0,0,0
+Vietnam,VNM,1992,1,comprehensive,national_security,TWEA,0,0,0,0,0,-7.0,3.9179,0,10.26,3.057,4.974,47,0.153,0.525,0,0,0
+Vietnam,VNM,1993,1,comprehensive,national_security,TWEA,0,9,0,0,9,-7.0,4.1468,0,7.69,2.897,5.244,48,0.15,0.504,1,9,9
+Vietnam,VNM,1994,1,comprehensive,national_security,TWEA,0,41,0,0,41,-7.0,4.5145,0,6.74,2.785,5.437,49,0.15,0.504,1,41,41
+Yemen,YEM,2012,1,targeted,terrorism,IEEPA,4,0,0,5,9,3.0,3.3795,1,18.85,1.356,7.127,67,0.357,0.336,2,9,4
+Yemen,YEM,2013,1,targeted,terrorism,IEEPA,0,0,0,3,3,3.0,3.4142,1,13.59,1.309,7.229,68,0.336,0.335,1,3,0
+Yemen,YEM,2014,1,targeted,terrorism,IEEPA,0,74,0,5,79,0.0,3.4531,1,10.97,1.3,7.266,69,0.3,0.306,2,55,74
+Yemen,YEM,2015,1,targeted,terrorism,IEEPA,0,24,0,0,24,0.0,3.4593,1,2.07,1.22,7.217,70,0.184,0.029,1,24,24
+Yemen,YEM,2016,1,targeted,terrorism,IEEPA,0,0,0,0,0,0.0,3.3092,1,0.77,1.276,6.883,71,0.113,0.0,0,0,0
+Yemen,YEM,2017,1,targeted,terrorism,IEEPA,0,1,0,0,1,0.0,3.1376,1,2.0,1.339,6.698,72,0.112,0.0,1,1,1
+Yemen,YEM,2018,1,targeted,terrorism,IEEPA,0,0,0,0,0,0.0,3.1149,1,4.88,1.573,6.452,73,0.113,0.0,0,0,0
+Yemen,YEM,2019,1,targeted,terrorism,IEEPA,0,0,0,0,0,0.0,3.3056,1,,1.742,,74,0.117,0.0,0,0,0
+Yemen,YEM,2020,1,targeted,terrorism,IEEPA,0,0,0,0,0,0.0,3.2199,1,,1.616,,75,0.113,0.0,0,0,0
+Yemen,YEM,2021,1,targeted,terrorism,IEEPA,0,4,0,0,4,0.0,3.1625,1,,1.485,,76,0.116,0.0,1,4,4
+Yemen,YEM,2022,1,targeted,terrorism,IEEPA,0,6,0,0,6,0.0,3.1476,1,,1.827,,77,0.123,0.0,1,6,6
+Yemen,YEM,2023,1,targeted,terrorism,IEEPA,0,4,0,2,6,0.0,2.7334,1,,2.367,,78,0.128,0.0,2,6,4
+Yemen,YEM,2024,1,targeted,terrorism,IEEPA,0,2,0,38,40,0.0,2.9074,1,,3.003,,79,0.126,0.0,2,22,2
+Yemen,YEM,2025,1,targeted,terrorism,IEEPA,0,6,0,0,6,0.0,2.7029,0,,3.153,,80,0.127,0.0,1,6,6
+Yugoslavia/Serbia,SRB,1992,1,comprehensive,human_rights,IEEPA,7,0,0,0,7,-5.0,,1,,3.057,,47,0.238,0.154,1,7,7
+Yugoslavia/Serbia,SRB,1993,1,comprehensive,human_rights,IEEPA,3,0,0,3,6,-7.0,,0,,2.897,,48,0.288,0.263,2,6,3
+Yugoslavia/Serbia,SRB,1994,1,comprehensive,human_rights,IEEPA,0,0,0,1,1,-7.0,,0,,2.785,,49,0.288,0.263,1,1,0
+Yugoslavia/Serbia,SRB,1995,1,comprehensive,human_rights,IEEPA,0,0,0,0,0,-7.0,,0,0.67,3.039,7.762,50,0.288,0.263,0,0,0
+Yugoslavia/Serbia,SRB,1996,1,comprehensive,human_rights,IEEPA,0,0,0,0,0,-7.0,,0,0.53,2.986,8.024,51,0.293,0.267,0,0,0
+Yugoslavia/Serbia,SRB,1997,1,comprehensive,human_rights,IEEPA,0,0,0,0,0,-6.0,,0,0.33,2.844,8.181,52,0.299,0.289,0,0,0
+Yugoslavia/Serbia,SRB,1998,1,comprehensive,human_rights,IEEPA,0,0,0,3,3,-6.0,,1,0.2,2.661,7.929,53,0.298,0.289,1,3,0
+Yugoslavia/Serbia,SRB,1999,1,comprehensive,human_rights,IEEPA,0,0,0,8,8,-6.0,,1,0.31,2.386,7.926,54,0.298,0.289,1,8,0
+Yugoslavia/Serbia,SRB,2000,1,comprehensive,human_rights,IEEPA,0,0,0,3,3,7.0,,0,2.33,2.175,6.882,55,0.364,0.411,1,3,0
+Yugoslavia/Serbia,SRB,2001,1,comprehensive,human_rights,IEEPA,0,73,0,0,73,7.0,,0,1.5,1.948,7.502,56,0.584,0.54,1,50,73
+Yugoslavia/Serbia,SRB,2002,1,comprehensive,human_rights,IEEPA,0,68,0,0,68,7.0,,0,0.63,1.564,7.779,57,0.61,0.574,1,50,68
+Yugoslavia/Serbia,SRB,2003,1,comprehensive,human_rights,IEEPA,0,79,0,0,79,6.0,,0,0.54,1.336,8.056,58,0.646,0.67,1,50,79
+Zimbabwe,ZWE,2003,1,targeted,democracy,IEEPA,4,0,0,0,4,-4.0,3.5651,0,6.98,1.336,6.149,58,0.269,0.089,1,4,4
+Zimbabwe,ZWE,2004,1,targeted,democracy,IEEPA,0,0,0,0,0,-4.0,3.6043,0,8.44,1.312,6.152,59,0.259,0.089,0,0,0
+Zimbabwe,ZWE,2005,1,targeted,democracy,IEEPA,0,0,0,0,0,-4.0,3.8214,0,8.56,1.411,6.134,60,0.258,0.086,0,0,0
+Zimbabwe,ZWE,2006,1,targeted,democracy,IEEPA,0,0,0,0,0,-4.0,3.7307,0,11.48,1.64,6.066,61,0.255,0.093,0,0,0
+Zimbabwe,ZWE,2007,1,targeted,democracy,IEEPA,0,0,0,0,0,-4.0,3.8113,0,15.56,1.638,6.025,62,0.255,0.093,0,0,0
+Zimbabwe,ZWE,2008,1,targeted,democracy,IEEPA,0,0,0,0,0,-4.0,3.9796,0,18.32,1.711,5.832,63,0.251,0.064,0,0,0
+Zimbabwe,ZWE,2009,1,targeted,democracy,IEEPA,0,0,0,0,0,1.0,3.8383,0,6.76,1.291,6.601,64,0.254,0.056,0,0,0
+Zimbabwe,ZWE,2010,1,targeted,democracy,IEEPA,0,0,0,0,0,1.0,3.5588,0,7.1,1.304,6.805,65,0.265,0.062,0,0,0
+Zimbabwe,ZWE,2011,1,targeted,democracy,IEEPA,0,0,0,0,0,1.0,3.6339,0,7.88,1.474,6.945,66,0.266,0.062,0,0,0
+Zimbabwe,ZWE,2012,1,targeted,democracy,IEEPA,0,0,0,0,0,1.0,3.5995,0,5.97,1.356,7.122,67,0.266,0.062,0,0,0
+Zimbabwe,ZWE,2013,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.7961,0,5.04,1.309,7.217,68,0.289,0.136,0,0,0
+Zimbabwe,ZWE,2014,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,4.1681,0,5.62,1.3,7.225,69,0.303,0.194,0,0,0
+Zimbabwe,ZWE,2015,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,4.1105,0,4.61,1.22,7.235,70,0.302,0.194,0,0,0
+Zimbabwe,ZWE,2016,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,4.0209,0,4.5,1.276,7.25,71,0.297,0.19,0,0,0
+Zimbabwe,ZWE,2017,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,4.0761,0,6.1,1.339,8.145,72,0.3,0.188,0,0,0
+Zimbabwe,ZWE,2018,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,4.397,0,3.38,1.573,7.728,73,0.313,0.185,0,0,0
+Zimbabwe,ZWE,2019,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,4.1348,0,4.72,1.742,7.689,74,0.304,0.175,0,0,0
+Zimbabwe,ZWE,2020,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.1129,0,4.75,1.616,7.63,75,0.299,0.189,0,0,0
+Zimbabwe,ZWE,2021,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.0765,0,6.4,1.485,7.868,76,0.297,0.191,0,0,0
+Zimbabwe,ZWE,2022,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.4826,0,,1.827,7.839,77,0.292,0.18,0,0,0
+Zimbabwe,ZWE,2023,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.4355,0,,2.367,7.694,78,0.296,0.183,0,0,0
+Zimbabwe,ZWE,2024,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.0549,0,,3.003,7.823,79,0.272,0.168,0,0,0
+Zimbabwe,ZWE,2025,1,targeted,democracy,IEEPA,0,0,0,0,0,4.0,3.0024,0,,3.153,,80,0.268,0.171,0,0,0
