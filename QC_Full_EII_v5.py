@@ -154,7 +154,9 @@ def run_bayesian_zinb(label, Xc, Xz, y_obs, spec, count_names, inflate_names):
       Inflate: logit(psi) = g0 + Xz @ gamma
       DV ~ ZI-NegBin(psi, mu, alpha)
 
-    psi = P(structural zero). Positive gamma = more sanctuary.
+    psi = P(count process) per PyMC convention (verified: test_psi_convention.py).
+    Inflate-equation coefficients are therefore interpreted on the ENGAGEMENT side:
+    positive gamma = higher P(engagement) = LESS sanctuary.
     Positive beta = higher enforcement given non-sanctuary.
     """
     n_c, n_z = Xc.shape[1], Xz.shape[1]
