@@ -1,17 +1,17 @@
 """
 ================================================================================
-EXTERNAL INTERDICTION INTENSITY INDEX (EIII)
+ENFORCEMENT INTENSITY INDEX (EII)
 ================================================================================
 Bayesian Zero-Inflated Negative Binomial Estimation
-of Enforcement Intensity in Strategically Corrupted Data
+of Enforcement Intensity in Strategically Produced Data
 
 Sean Rogers | University of South Carolina | 2026
 
-INPUT:   EIII_Panel_Definitive.csv (942 country-years, 43 states, 1945-2025)
+INPUT:   EII_Panel_Definitive.csv (942 country-years, 44 states, 1945-2025)
 OUTPUT:  bayesian_results_all_specs.csv, weighting_sensitivity.csv, fig1-fig4
 RUNTIME: ~3 min (Windows, single core)
 
-The EIII is constructed from ten institutional primary sources across four
+The EII is constructed from ten institutional primary sources across four
 layers. This script takes the panel as given and estimates the model.
 See codebook for construction details.
 
@@ -37,7 +37,7 @@ WHY ZINB?
   equation models sanctuary probability.
 
 MEASUREMENT SENSITIVITY:
-  The EIII triangulates ten institutional sources on the DV side because
+  The EII triangulates ten institutional sources on the DV side because
   each source lies in a different direction for different institutional
   reasons. The fiscal pressure IV uses a single source (CBO). The
   interaction (friction x fiscal) is not supported in Bayesian estimation
@@ -275,14 +275,14 @@ def save_results_csv(all_results, count_names, inflate_names, filename):
 # ======================================================================
 def main():
     print("=" * 70)
-    print("EIII REPLICATION PIPELINE — v5")
+    print("EII REPLICATION PIPELINE — v5")
     print(f"PyMC {pm.__version__} | ArviZ {az.__version__}")
     print("=" * 70)
 
     # ------------------------------------------------------------------
     # DATA
     # ------------------------------------------------------------------
-    df = pd.read_csv('EIII_Panel_Definitive.csv')
+    df = pd.read_csv('EII_Panel_Definitive.csv')
     for col in ['eiii_score', 'polity', 'friction', 'degradation',
                 'resource_density', 'fiscal_pressure', 'gdp_pc_log',
                 'trend', 'vdem_electoral', 'vdem_elections']:
