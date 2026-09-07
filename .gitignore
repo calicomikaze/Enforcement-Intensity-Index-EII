@@ -24,3 +24,7 @@ desktop.ini
 fix*.py
 runner.py
 patch.py
+
+.claude.json
+.python_history
+*.lock
