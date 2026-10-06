@@ -74,15 +74,22 @@ df <- read_csv(here("EIII_Panel_Definitive.csv"), show_col_types = FALSE)
 
 check_exact("panel rows", nrow(df), 942)
 check_exact("panel columns", ncol(df), 24)
-check_exact("states in frame", n_distinct(df$country), 44)
+# 2026-10-05: the panel contains 43 states, not 44. Every planning
+# document in this project asserted 44, including the Sep 7 note that
+# declared the 43/44 discrepancy resolved in favor of 44. It was
+# resolved in the wrong direction. The panel is the authority.
+check_exact("states in frame", n_distinct(df$country), 43)
 check_exact("first year", min(df$year), 1945)
 check_exact("last year", max(df$year), 2025)
 
 # DV must be integer-valued and non-negative: the ZINB requires it
 dv_ok <- all(df$eiii_score >= 0, na.rm = TRUE) &&
          all(df$eiii_score == floor(df$eiii_score), na.rm = TRUE)
-if (dv_ok) { PASS <- PASS + 1; cat("  PASS  DV is non-negative integer\n") }
-else       { FAIL <- FAIL + 1; cat("  FAIL  DV is NOT non-negative integer\n") }
+if (dv_ok) {
+  PASS <- PASS + 1; cat("  PASS  DV is non-negative integer\n")
+} else {
+  FAIL <- FAIL + 1; cat("  FAIL  DV is NOT non-negative integer\n")
+}
 
 # Layers must sum to the DV, or the weighting scheme has drifted
 layer_sum <- df$layer1_ofac_events + df$layer2_multilateral +
@@ -139,8 +146,11 @@ f <- zeroinfl(
   data = d, dist = "negbin"
 )
 
-if (!f$converged) { FAIL <- FAIL + 1; cat("  FAIL  model did not converge\n") }
-else              { PASS <- PASS + 1; cat("  PASS  model converged\n") }
+if (!f$converged) {
+  FAIL <- FAIL + 1; cat("  FAIL  model did not converge\n")
+} else {
+  PASS <- PASS + 1; cat("  PASS  model converged\n")
+}
 
 cc <- summary(f)$coefficients$count
 check("count: (Intercept)",        cc["(Intercept)", "Estimate"],         3.7784)
@@ -233,8 +243,11 @@ cat("\n[7] SUBSTANTIVE FINDINGS — SIGN STABILITY\n")
 expect_neg <- c("fiscal_pressure_z", "gdp_pc_log_z", "degradation", "friction_z")
 for (v in expect_neg) {
   b <- cc[v, "Estimate"]
-  if (b < 0) { PASS <- PASS + 1; cat(sprintf("  PASS  %-22s negative (%.3f)\n", v, b)) }
-  else       { FAIL <- FAIL + 1; cat(sprintf("  FAIL  %-22s POSITIVE (%.3f)\n", v, b)) }
+  if (b < 0) {
+    PASS <- PASS + 1; cat(sprintf("  PASS  %-22s negative (%.3f)\n", v, b))
+  } else {
+    FAIL <- FAIL + 1; cat(sprintf("  FAIL  %-22s POSITIVE (%.3f)\n", v, b))
+  }
 }
 
 # ------------------------------------------------------------------
