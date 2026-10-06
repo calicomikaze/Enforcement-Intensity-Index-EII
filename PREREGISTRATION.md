@@ -123,6 +123,65 @@ and is registered as a question, not a finding.
 
 ---
 
+## Principal threat to inference: political declination
+
+The prediction above says enforcement will not respond to rising cost
+because the architecture has lost fiscal sensitivity. A competing
+explanation produces the identical null: enforcement is low in the
+extension window because the executive is deliberately not enforcing —
+declination policy, pardons, dropped and unfiled cases.
+
+Fiscal insensitivity and political non-enforcement are observationally
+equivalent in a model whose only fiscal covariate is carrying cost.
+Both yield a flat coefficient. This is registered in advance as the
+principal threat to inference, not raised after the fact.
+
+Three features of the design bear on it.
+
+**Timing is partly separable.** Carrying cost began rising in 2022,
+under the prior administration; the current one took office in January
+2025. If enforcement is already flat against rising cost over
+2022–2024, that is evidence for fiscal insensitivity independent of
+any current declination posture. 2025 is confounded.
+
+*Decision registered in advance:* the primary test window is
+**2022–2024**. 2025 is coded and reported but analyzed separately. The
+prediction above is evaluated on the three clean years. If the clean
+window and the full window disagree, both are reported and the
+disagreement is the finding.
+
+**Layers may diverge.** Political non-enforcement operates most
+readily on Layer 3 — civil penalties against financial institutions
+are discretionary, negotiated, and straightforward to simply not
+pursue. UNSC designations (Layer 2) require multilateral process;
+kinetic operations (Layer 4) are not a prosecutorial choice. A
+declination signature should therefore appear as Layer 3 collapsing
+while Layers 2 and 4 hold. A fiscal signature should appear across
+layers or not at all.
+
+*Registered test:* run the layer decomposition on the extension window.
+Asymmetric collapse concentrated in Layer 3 favors declination.
+Uniform flatness favors fiscal insensitivity.
+
+**Declination is measurable, and measuring it reproduces the paper's
+own problem.** DOJ and OFAC publish enforcement statistics; declination
+rates and settlement counts are trackable and could enter as a
+covariate. But those series are produced by the institutions doing the
+declining — a single-source institutional measure of institutional
+non-action, which is precisely the data-production problem this project
+exists to address, recurring one level up. Any declination covariate
+is therefore reported as a descriptive control, not as an identifying
+strategy, and its own provenance is stated.
+
+**What this threat does not excuse.** If the prediction fails — if cost
+returns negative with substantial posterior mass — political
+declination cannot be invoked to rescue it. A confound that could only
+have produced the predicted result, and is unavailable to explain the
+opposite one, is not a confound. It is an alibi. Registered here so
+that it cannot be deployed that way later.
+
+---
+
 ## Analysis plan
 
 1. Code 2022–2025 using the existing four-layer protocol. No changes to
@@ -131,10 +190,16 @@ and is registered as a question, not a finding.
 2. Run `validate.R` on the extended panel. The 1945–2021 baseline
    coefficients must reproduce. If they move, the extension introduced
    an error.
-3. Re-estimate the late period as 2003–2025 using the same
-   specification, same priors, same seed.
-4. Report the cost coefficient against the prediction above.
-5. Report the interaction against the secondary prediction.
+3. **Primary test:** re-estimate the late period as 2003–2024 using the
+   same specification, same priors, same seed. This is the window the
+   prediction is evaluated on.
+4. **Secondary:** re-estimate as 2003–2025 including the confounded
+   year. Report both. Disagreement between them is itself reported.
+5. Run the layer decomposition on 2022–2024 and on 2025 separately.
+   Asymmetric Layer 3 collapse favors declination; uniform flatness
+   favors fiscal insensitivity.
+6. Report the cost coefficient against the prediction above.
+7. Report the interaction against the secondary prediction.
 
 No specification search. No alternative windows. No dropping of years
 that produce inconvenient results. If the specification needs to change,
@@ -155,4 +220,5 @@ variance are different claims. Only the second is informative.
 ---
 
 *Prediction: cost rises, enforcement does not respond.*
+*Primary window 2022–2024. 2025 reported separately.*
 *Registered 2026-10-05.*
