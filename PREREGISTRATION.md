@@ -42,47 +42,93 @@ it is in the data.
 
 ---
 
-## The prediction
+## The prediction: institutional lag
 
-**Cost rises sharply 2022–2025 and enforcement intensity does not
-respond.** The posterior for `cost_z` in the extended late window will
-remain centered near zero, P(dir.) below roughly 0.80, despite a
-near-tripling of the carrying-cost variance that produced the
-1970–2002 relationship.
+**Cost rises sharply 2022–2024 and enforcement intensity does not yet
+respond.** The posterior for `cost_z` in the extended window will
+remain centered near zero, P(dir.) below roughly 0.80, despite the
+return of real variance in carrying cost.
 
-The claim: the architecture's responsiveness to fiscal signals was a
-property of a state that still treated budget constraints as binding.
-That responsiveness did not pause when the constraint lifted after
-1991 — it dissolved. The signal returning does not restore the behavior.
+**The mechanism is lag, not deafness.** An earlier formulation of this
+prediction held that the architecture had permanently lost fiscal
+sensitivity. That claim is not supported by the comparative record and
+is withdrawn. The historical cases — Rome, Britain — show institutional
+response to fiscal exhaustion running well behind the fiscal signal
+itself. Commitments are contractual, personnel are tenured, obligations
+are treaty-bound, and the apparatus continues operating on prior
+authorization long after the conditions that authorized it have changed.
+Retrenchment follows exhaustion by years, sometimes decades, and when it
+comes it is abrupt rather than proportional.
 
-This prediction runs **against** the obvious reading of the
-overextension thesis, which says the bill comes due and the apparatus
-contracts. The prediction is that the apparatus no longer reads the bill.
+The American case is predicted to exhibit the same structure. Carrying
+cost returned in 2022. Response is not expected within three years.
+
+This is a weaker claim than permanent insensitivity and it is the right
+one: it is grounded in the comparative cases rather than asserted about
+the present, and it generates a continuing test rather than a terminal
+one.
 
 ---
 
 ## What falsifies it
 
 **Cost coefficient returns negative with substantial posterior mass**
-(P(dir.) > 0.90, HDI excluding zero). The architecture is still
-fiscally responsive; the 2003–2021 null was a variance problem, not a
-behavioral change. The decoupling was temporary and the standard
-overextension mechanism holds.
+(P(dir.) > 0.90, HDI excluding zero) in the 2022–2024 window. The
+architecture responds to fiscal signals within three years. The lag
+mechanism is wrong, response is faster than the comparative cases
+suggest, and the American case is not structurally analogous to the
+historical ones on this dimension.
 
 **Cost coefficient returns positive.** Enforcement rises with carrying
-cost. This was considered and rejected as the expected outcome. If it
-appears, the framework has a problem that neither the overextension
-thesis nor the decoupling thesis anticipates, and both need revision
-rather than patching.
+cost. Neither the lag mechanism nor the overextension thesis predicts
+this. If it appears, both need revision rather than patching.
 
 ---
 
 ## What confirms it
 
-Cost coefficient near zero with a tighter posterior than 2003–2021
-produced — tighter because the IV now has variance to estimate from.
-A null on a variable that moves is informative in a way a null on a
-flat variable is not.
+Cost coefficient near zero in 2022–2024, with a tighter posterior than
+2003–2021 produced — tighter because the IV now has variance to
+estimate from. A null on a variable that moves is informative in a way
+a null on a flat variable is not.
+
+**Confirmation is provisional by construction.** A lag claim cannot be
+confirmed by a single null; it predicts that the response arrives
+later. The standing test is whether the cost coefficient turns negative
+in subsequent extensions — 2027, 2029 — as the lag runs out. This
+prediction therefore does not resolve within one paper. It is a
+commitment the lab carries forward, and the timing of the turn, if it
+comes, is itself the estimate of the lag.
+
+---
+
+## On what "collapse" means and why it is not the predicted outcome
+
+The theory holds that coercive extraction architectures overextend and
+reconfigure. It does not specify what the American architecture
+reconfigures into, and that terminal state is treated here as unknown.
+
+An outcome that cannot be specified cannot be predicted. "Collapse" is
+therefore excluded as a registered prediction: reconfiguration into an
+unspecified form is compatible with nearly any pattern in the data,
+which makes it a frame rather than a hypothesis.
+
+What the comparative cases do supply is the structural signature of
+reconfiguration while it is underway — contraction at the periphery,
+intensification at the core, substitution of cheap instruments for
+expensive ones, and lag between fiscal exhaustion and institutional
+response. Those are specific enough to test without knowing the
+endpoint, and the lag prediction above is one of them.
+
+**Scope condition, registered in advance.** The EII counts enforcement
+events directed at states. If reconfiguration moves the architecture's
+coercive output into modalities the index does not count — domestic
+prosecution, regulatory conditioning, informal pressure, compliance
+apparatus that generates no countable event — then a falling EII
+registers the modality shift rather than a decline in coercive output.
+The instrument would read reconfiguration as decline. This is a limit
+of the measure, not of the theory, and any interpretation of a falling
+EII must address it before claiming contraction.
 
 ---
 
@@ -197,9 +243,19 @@ that it cannot be deployed that way later.
    year. Report both. Disagreement between them is itself reported.
 5. Run the layer decomposition on 2022–2024 and on 2025 separately.
    Asymmetric Layer 3 collapse favors declination; uniform flatness
-   favors fiscal insensitivity.
+   favors lag.
 6. Report the cost coefficient against the prediction above.
 7. Report the interaction against the secondary prediction.
+8. **Reconfiguration signature.** Two composition tests, reported
+   whatever the cost coefficient shows, because they bear on the
+   scope condition above:
+   - *Instrument substitution.* Does the layer mix shift toward
+     cheaper instruments — multilateral and financial up relative to
+     kinetic — independent of the total?
+   - *Target reallocation.* Do structural zeros reallocate across the
+     panel rather than falling uniformly? The zero-inflation equation
+     estimates this directly. Periphery contraction predicts sanctuary
+     expanding among low-salience states while the core holds.
 
 No specification search. No alternative windows. No dropping of years
 that produce inconvenient results. If the specification needs to change,
@@ -219,6 +275,29 @@ variance are different claims. Only the second is informative.
 
 ---
 
-*Prediction: cost rises, enforcement does not respond.*
+---
+
+## Provenance
+
+**2026-10-05, first draft.** Prediction stated as permanent fiscal
+insensitivity ("the apparatus no longer reads the bill").
+
+**2026-10-05, revised before commit.** Reformulated as institutional
+lag grounded in the comparative cases. The insensitivity claim was
+withdrawn as unsupported by the historical record and untestable within
+one paper. Added the political-declination threat and the 2022–2024
+primary window. Added the scope condition on modality shift and the
+exclusion of "collapse" as a registered outcome. No 2022–2025
+enforcement data had been examined at any point during drafting or
+revision.
+
+Both versions are preserved in this file's git history. The revision
+preceded all data collection.
+
+---
+
+*Prediction: cost rises, enforcement does not respond within three years.*
+*Mechanism: institutional lag, per the comparative cases.*
 *Primary window 2022–2024. 2025 reported separately.*
+*Standing test: does the coefficient turn negative in later extensions.*
 *Registered 2026-10-05.*
