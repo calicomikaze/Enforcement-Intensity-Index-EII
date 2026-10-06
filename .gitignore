@@ -28,3 +28,6 @@ patch.py
 .claude.json
 .python_history
 *.lock
+
+# Fitted models — reproducible from scripts with seed 42
+*.rds
